@@ -6,7 +6,7 @@ title: Arindam Paul
 <div id="contact">
 
   <h1 class="pageTitle">Contact Me</h1>
-<p class="intro">To get in touch with me, please fill out the form or hang by my office or follow me on social media by clicking the icons below</p>
+<p class="intro">To get in touch with me, please fill out the form or drop by my office or follow me on social media by clicking the icons below</p>
   <div class="contactContent">
 
     <p> <font color="purple"><b>
