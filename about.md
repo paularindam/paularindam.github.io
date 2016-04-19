@@ -3,7 +3,7 @@ layout: default
 title: Arindam Paul
 ---
 
-<div class="home">
+<div class="home" align="justify">
 	<h1 class="pageTitle">About Me</h1>
 
 	<img src="{{ '/assets/img/preview.jpg' | prepend: site.baseurl }}" alt="" >
