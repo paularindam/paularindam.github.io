@@ -9,7 +9,7 @@ title: Arindam Paul
 	<img src="{{ '/assets/img/preview.jpg' | prepend: site.baseurl }}" alt="" >
 	<h4 style="text-align:center"><i>What did I learn in grad school ? </i>  
 	How to be an expert at failing</h4>
-	<p>I love reading. Recently, I have becoming addicted to reading books on psychology and philosophy. Although not a social scientist, the complexity of the human mind and society have always interested me. Also, I am a fan of Elon Musk and right now, I am reading his <a href="https://en.wikipedia.org/wiki/Elon_Musk:_Tesla,_SpaceX,_and_the_Quest_for_a_Fantastic_Future">biography.</a></p>
+	<p>I love reading. Recently, I have become hooked onto reading books on psychology and philosophy. Although not a social scientist, the complexity of the human mind and society have always interested me. Also, I am a fan of Elon Musk and right now, I am reading his <a href="https://en.wikipedia.org/wiki/Elon_Musk:_Tesla,_SpaceX,_and_the_Quest_for_a_Fantastic_Future">biography.</a></p>
 
     <!-- <p>Although it might sound cliched, I had dreamt of being a scientist since I was 6 years old.
     My favorite subjects at school were Math and Science. It was a simple curiosity to know about the world, and I am grateful to my mentors to keeping that curiosity alive. I feel proud to be born in the land of <a href="https://en.wikipedia.org/wiki/Aryabhata">Aryabhatta</a>, <a href="https://www.youtube.com/watch?v=oXGm9Vlfx4w">Ramanujan</a> and <a href="https://www.wikiwand.com/en/Satyendra_Nath_Bose">Bose</a>.</p> -->
