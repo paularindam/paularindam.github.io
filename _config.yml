@@ -9,23 +9,29 @@ permalink: blog/:title/
 markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
-paginate: 5
+paginate: 6
 
-navigation:
+navigation1:
  - title: Home
    url: /index.html
- - title: Projects
+ - title: Personal
    url: /about
+ - title: Projects
+   url: /projects
+ - title: Publications
+   url: /publications
+
+
+navigation2:
  - title: Contact
    url: /contact
-
-
 
 social:
    github: paularindam
    twitter: arndmPaul
    linkedin: arndmpaul
    facebook: arindampaul.bits
+   quora: Arindam-Paul-3
    email: arindam.paul@eecs.northwestern.edu
 
 google_analytics:
