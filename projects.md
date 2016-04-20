@@ -9,7 +9,12 @@ title: Arindam Paul
 	<!-- <p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
 	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p> -->
 	<h2>Projects:Site under construction</h2>
+<a href="/assets/pdf/ArindamPaul-CV.pdf"><img src="{{ '/assets/img/sybil.png' | prepend: site.baseurl }}" alt="" height="280" width="350"></a>
+<a href="/assets/pdf/ArindamPaul-CV.pdf"><img src="{{ '/assets/img/SQ.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350"></a>
+<a href="/assets/pdf/ArindamPaul-CV.pdf"><img src="{{ '/assets/img/Cleaning.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350"></a>
+<a href="/assets/pdf/ArindamPaul-CV.pdf"><img src="{{ '/assets/img/FCB.png' | prepend: site.baseurl }}" alt="" height="280" width="350"></a>
 	<!-- <ul>
+
 		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
   		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
   		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
