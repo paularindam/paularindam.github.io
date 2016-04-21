@@ -13,7 +13,7 @@ title: Arindam Paul
 <a href="/assets/projects/softwarequality"><img src="{{ '/assets/img/SQ.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350"></a>
 <a href="/assets/projects/datacleaning"><img src="{{ '/assets/img/Cleaning.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350"></a>
 <a href="/assets/projects/fcb"><img src="{{ '/assets/img/FCB.png' | prepend: site.baseurl }}" alt="" height="280" width="350"></a>
-<a href="/assets/projects/collusion"><img src="{{ '/assets/img/collusion.png' | prepend: site.baseurl }}" alt="" height="280" width="350"></a>
+<a href="/assets/projects/adsprivacy"><img src="{{ '/assets/img/adsprivacy.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350"></a>
 <h2>Course Projects:</h2>
 <a href="/assets/projects/citation"><img src="{{ '/assets/img/citation.png' | prepend: site.baseurl }}" alt="" height="280" width="350"></a>
 <a href="/assets/projects/cuisine"><img src="{{ '/assets/img/cuisine.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350"></a>
