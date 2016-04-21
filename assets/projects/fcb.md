@@ -10,7 +10,7 @@ title: Arindam Paul
 	<p align="center"><img src="{{ '/assets/img/FCBdog.png' | prepend: site.baseurl }}" alt="" height="280" width="350"></p>
 
 	<p>One example of this is the Facebook confession phenomenon, in which anonymous users submit confessions which are viewed and commented on by identified members of a university or school community. Another example is the site Tumblr, which allows easy switching of personae and the maintenance of multiple blogs. This project explores the appeal of novel configurations of anonymity and identifiability in social networking sites.</p>
-	<p align="center"><img src="{{ '/assets/img/FCBresult.png' | prepend: site.baseurl }}" alt="" height="315" width="420"></p>
+		<p align="center"><img src="{{ '/assets/img/FCBdog.png' | prepend: site.baseurl }}" alt="" height="280" width="350"></p>
 </div>
 <h4><font color="purple" >Publications: </font></h4>
 <p>J.Birnholtz, N.A.R. Merola, and <b>A. Paul</b>. <a href="/assets/pdf/FCB.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="green">"Is it Weird to Still Be a Virgin?": Anonymous, Locally Targeted Questions on Facebook Confession Boards</font></a>. <i>ACM Conference on Human Factors in Computing Systems 2015.</i></p>
