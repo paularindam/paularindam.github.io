@@ -16,30 +16,12 @@ title: Arindam Paul
 
 		<p> My other hobby is creative writing. I am an ardent writer and a regular member of the <a href="http://www.meetup.com/Evanston-Creative-Writing-Group/">Evanston Creative Writing Group</a>. Although, primarily I write short stories and poems, my goal is to write a novel this year. One day, I would like to have my work published. Meanwhile, you can follow my <a href="http://arndmpaul.blogspot.com/">blog</a>.I also enjoy public speaking. I had extreme stage fright and I had started my voyage of public speaking by going to a <a href="https://www.facebook.com/groups/886190904789415/">Northwestern Toastmasters </a>open house. Since then, I have fallen in love with public speaking and Toastmasters. I love speaking with passion and listening to wonderful moving stories. Since last Fall, I am also the Treasurer of the club. </p>
 
-		<p>I am passionate about social justice. I am supporting a girl child's education in India through <a href="https://www.children.org/">Children international</a>. I also volunteer at a non profit <a href ="http://www.braveinitiatives.com/">Brave Initiatives</a> where we teach and encourage high school girls to code. Also, once a month, few of us Chicagoans gather and discuss about big life questions and social (in)equality in the Chicago ThoughtLucks. This is a picture from our last meeting on Racism.</p>
-		<img src="{{ '/assets/img/thoughtlucks.jpg' | prepend: site.baseurl }}" alt="" >
+		<p>I am passionate about social justice. I also volunteer at a non profit <a href ="http://www.braveinitiatives.com/">Brave Initiatives</a> where we teach and encourage high school girls to code. I am also supporting a girl child's education in India through <a href="https://www.children.org/">Children international</a>. The pics of her and her village in India. Go fund a child !!</p>
+		<p align="center"><img src="{{ '/assets/img/children1.jpg' | prepend: site.baseurl }}" alt=""  height="280" width="280"></p><img src="{{ '/assets/img/children2.jpg' | prepend: site.baseurl height="265"}}" alt="" ><img src="{{ '/assets/img/children3.jpg' | prepend: site.baseurl }}" alt="" height="265" >
 	  <p> Apart from that, I am trying to learn Spanish and how to dance Tango. I also follow cricket thanks to my best friend and roommate Divya who is an ardent follower. I am  also the President of the <a href="https://www.facebook.com/groups/114037852056065/">Northwestern Cricket Club</a>.</p>
 		<p> My passion for teaching makes me want to be a professor 5-10 years down the line.  I have often felt that the academic environment often disadvantages grad students especially international students. So, one of my future goals is to become an advocate for the grad students when I would have the power to influence the academic system.</p>
 
 		<p> I had been fortunate to be supported by my parents and my sister who have always encouraged me to study, even when our family were in financial crisis.</p>
 
-
-
-	<!-- <p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p> -->
-	<!-- <h2>Projects:Site under construction</h2> -->
-	<!-- <ul>
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul> -->
 </div>
 <h4 style="text-align:center"><font color="purple" ><i>By seeking and blundering we learn  </i></font>- Goethe</h4>
