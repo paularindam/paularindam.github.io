@@ -4,7 +4,7 @@ title: Arindam Paul
 ---
 
 <div class="intro" align="justify">
-	<h2 class="pageTitle"><font color="green">Detecting Sybil in P2P networks</font></h2>
+	<h2 class="pageTitle"><font color="green">Detecting Sybil in P2P networks using Psychometric Methods</font></h2>
 	<p align="center"><img src="{{ '/assets/img/sybilServer.png' | prepend: site.baseurl }}" alt="" height="315" width="420"></p>
 	<p>Peer to peer networks guarantee complete user anonymity to the clients. However, modern P2P networks suffer from Sybil attacks, which forge multiple identities to influence the global decisions in the network. In a Sybil attack, an entity in a peer-to-peer network masquerades itself as multiple simultaneous identities in the network. Thus, a single user can exert a significant effect on the decisions or working of the entire network if the multiple identities created by the user form a significant fraction of the peer-to-peer network. It is difficult to resolve Sybil attack at identity level because they need not be doing anything wrong.</p>
 
