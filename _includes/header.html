@@ -10,10 +10,10 @@
                  </li>
                  {% endfor %}
                 <li> <a href="/assets/pdf/ArindamPaul-CV.pdf">CV</a></li>
-                 <li>
+                 <!-- <li>
                    <a href="http://arndmpaul.blogspot.com/">Blog</a>
 
-                 </li>
+                 </li> -->
                  {% for link in site.navigation2 %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
                  <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
                      <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>

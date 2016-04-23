@@ -21,9 +21,11 @@ navigation1:
  - title: Publications
    url: /publications
 
-
-
 navigation2:
+ - title: News
+   url: /news
+ - title: More
+   url: /more
  - title: Contact
    url: /contact
 
