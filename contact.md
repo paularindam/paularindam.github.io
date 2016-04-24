@@ -12,8 +12,8 @@ title: Arindam Paul
     <p> <font color="purple"><b>
     Department of EECS<br>
       Northwestern University<br>
-      LG65 <br>
-    2145 Sheridan Road<br>
+      <a href="http://www.mccormick.northwestern.edu/contact/tech-room-finder-map.php?id=LG65&room-floor=0&room-id=854&room-ingress="><font color="purple">LG65</font></a> <br>
+    <a href ="https://maps.northwestern.edu/facility/132"><font color="purple">2145 Sheridan Road</font></a><br>
     Evanston, Illinois 60208</b>
   </font></p>
     <img src="{{ '/assets/img/contact.jpg' | prepend: site.baseurl }}" alt="" height="280" weight ="280">

@@ -20,6 +20,8 @@ navigation1:
    url: /projects
  - title: Publications
    url: /publications
+ - title: Bio
+   url: /vitae
 
 navigation2:
  - title: News
@@ -28,6 +30,7 @@ navigation2:
    url: /more
  - title: Contact
    url: /contact
+
 
 social:
    github: paularindam
