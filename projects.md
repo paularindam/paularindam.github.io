@@ -10,7 +10,7 @@ title: Arindam Paul
 	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p> -->
 	<h2 style="color:purple;">Research Projects:</h2>
 <a href="/assets/projects/sybil" class="magic-button" title="Detecting Sybil Attacks in BitTorrent"	><img src="{{ '/assets/img/sybil.png' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20"></a>
-<a href="https://imgflip.com/gif/12w39d" class="magic-button" title="Software Quality Estimation"><img src="https://i.imgflip.com/12w39d.gif" alt="" height="280" width="350" hspace="15" vspace="20"></a><br><br>
+<a href="/assets/projects/softwarequality" class="magic-button" title="Software Quality Estimation"><img src='/assets/img/softwarequality.gif'  alt="" height="280" width="350" hspace="15" vspace="20"></a><br><br>
 <!-- <a href="/assets/projects/softwarequality" class="magic-button" title="Software Quality Estimation"><img src="{{ '/assets/img/SQ.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20"></a> -->
 <a href="/assets/projects/datacleaning" class="magic-button" title="HADCLEAN: Hybrid Approach to Data Cleaning"><img src="{{ '/assets/img/Cleaning.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20"></a>
 <a href="/assets/projects/fcb" class="magic-button" title="Facebook Confessions"><img src="{{ '/assets/img/FCB.png' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20"></a><br><br>
