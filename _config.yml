@@ -24,8 +24,6 @@ navigation1:
    url: /vitae
 
 navigation2:
- - title: News
-   url: /news
  - title: More
    url: /more
  - title: Contact

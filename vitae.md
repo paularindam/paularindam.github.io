@@ -43,13 +43,25 @@ I study <font color="purple"><i>how to accelerate materials discovery using mach
 <p>K Haribabu, <b>A. Paul</b> and C. Hota <a href="/assets/pdf/Psychometric.pdf" style="text-decoration:none" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple"> Detecting Sybils in Peer-to-Peer Overlays using Psychometric Analysis Methods</font></a>, <i>IEEE International Conference on Advanced Information Networking and Applications(AINA) 2011</i></p>
 
 <p><h4><font color="green">Professional Experience</font></h4></p>
+<p><h5><font color="purple"> Boeing Narus Inc.: Summer Research Intern 2013</font></h5>
+<ul><li>Understanding Collaboration Among Online Advertising and Analytics Services</li>
+<li>Observed multiple 3rd-party services sharing user’s private information with each other</li> <li>Investigated how these services use means to obfuscate this parameter sharing</li></ul>
+
+<p><h5><font color="purple">Information Processing Center BITS Pilani: Database Admin 2011</font></h5>
+<ul><li>Worked on Data mining and Data Warehousing tools used over Oracle 11g</li>
+<li>Developed a customized version of Moodle 1.9/2.0 over LAMP stack for the university On-Campus Course Management System</li></ul>
+
+<p><h5><font color="purple">National Thermal Power Corporation,Delhi: Summer Intern 2008</font></h5>
+<ul><li>Studied water treatment processes and recommended improved water treatment measures</li>
+<li>Prepared research design and surveys to study effects of pollution from the plant as part of the Environment Management Group</li></ul>
+
 
 <p><h4><font color="green">Fellowships</font></h4></p>
 <ul><li>Recipient of Walter P. Murphy Fellowship, during 1st year of PhD </li>
 <li>Recipient of Segal Design Cluster Fellowship, during 3rd year of PhD </li></ul>
 
 <p><h4><font color="green">Awards & Achievements</font></h4></p>
-<ul><li>All India Rank 1 in BITS HDSAT (admission test for graduate programs at BITS Pilani) in Software Systems</li>
+<ul><li>All India Rank 1 in BITS HDSAT (admission test for graduate programs at BITS Pilani)</li>
 <li>All India Rank 64 & State Rank 9 in National Science Olympiad among more than half million participants during freshmen year of high-school</li>
 <li>Recipient of BITS Pilani Merit-cum-Need Scholarship during last 3 years of undergraduate study</li></ul>
 
