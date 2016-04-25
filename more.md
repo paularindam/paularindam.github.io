@@ -26,7 +26,9 @@ title: Arindam Paul
 
 <h3><font color="green">Travel plans:</font></h3>
 <p><font color="purple"> Pittsburgh: </font>14th to 17th May,2016</p>
+<p><font color="purple"> Milwaukee:</font> June 2016 (exact data undecided)</p>
 <p><font color="purple"> Minneapolis:</font> June 2016 (exact data undecided)</p>
 <p><font color="purple">Boston:</font> July 2016 (exact data undecided)</p>
+<p><font color="purple">Utah:</font> October 2016 (exact data undecided)</p>
 
 </div>

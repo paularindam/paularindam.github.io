@@ -65,6 +65,11 @@ I study <font color="purple"><i>how to accelerate materials discovery using mach
 <li>All India Rank 64 & State Rank 9 in National Science Olympiad among more than half million participants during freshmen year of high-school</li>
 <li>Recipient of BITS Pilani Merit-cum-Need Scholarship during last 3 years of undergraduate study</li></ul>
 
+<p><h4><font color="green">Certifications</font></h4></p>
+<ul><li>Certification in Core Java from <a href="http://www.niitcloudcampus.com/courses/programming-in-java-se.aspx?categoryid=CT058&ProgramCode=PIJ2R">NIIT </a> (2007)</li>
+<li>Certification in LAMP from BITS Pilani <a href="http://discovery.bits-pilani.ac.in/CSDCourse/">Center for Software Development</a> (2009)</li>
+<li>Certification in .Net from BITS Pilani <a href="http://discovery.bits-pilani.ac.in/CSDCourse/">Center for Software Development</a> (2009)</li></ul>
+
 <p><h4><font color="green">Selected Course Projects</font></h4></p>
 <ul><li>Developed a Sentiment Analysis Tool to find the most interesting or controversial events at the 2013 Golden Globe Awards from user-Tweets<font color="purple"> (Python)</font></li>
 <li>Developed a tool which uses Natural Language Processing techniques to find the most interesting or controversial events at the 2013 Golden Globe Awards from user-Tweets <font color="purple"> (Python)</font></li>
@@ -92,10 +97,11 @@ network<font color="purple"> (Go) </font></li>
 </ul>
 
 <p><h4><font color="green">Teaching and Outreach</font></h4></p>
-<ul><li>Lecturer (and TA) for Introduction to Programming, Winter 2015</li>
-<li>Lecturer (and TA) for Introduction to Programming, Winter and Spring 2014</li>
-<li>TA for Data Structures, Fall 2015 </li>
-<li>Guest Lecturer for Social Media Mining, Spring 2016</li>
+<ul><li>Lecturer (and TA) for Introduction to Programming, Northwestern, Winter 2015</li>
+<li>Lecturer (and TA) for Introduction to Programming, Northwestern,Winter and Spring 2014</li>
+<li>TA for Data Structures, Northwestern,Fall 2015 </li>
+<li>Guest Lecturer for Social Media Mining, Northwestern,Spring 2016</li>
+<li>TA for Database Systems, BITS Pilani, Spring 2012 </li>
 <li>Instructor and Mentor, Brave Initiatives</li>
 </ul>
 
@@ -108,8 +114,8 @@ network<font color="purple"> (Go) </font></li>
 
 <p><h4><font color="green">Service</font></h4></p>
 <ul><li>Student volunteer at ACM CSCW 2014 Program Committee </li>
-<li>Reviewer for InfoComm 2013</li>
-<li>Reviewer for AAAI 2016</li>
+<li>Peer Reviewer for InfoComm 2013</li>
+<li>Peer Reviewer for <a href="https://www.aiaa.org/journals/">AIAA</a></li>
 </ul>
 
 <p><h4><font color="green">References (on request)</font></h4></p>
