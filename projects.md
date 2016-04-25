@@ -30,7 +30,7 @@ title: Arindam Paul
 
 <a href="/assets/projects/othello" class="magic-button" title="2-player Othello Game Design"><img src="{{ '/assets/img/othello.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20"></a>
 
-<a href="/assets/projects/rwb" class="magic-button" title="Electoral Data Analysis"><img src="{{ '/assets/img/rwb.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20"></a>
+<a href="/assets/projects/twitterglobe" class="magic-button" title="Mining Golben Globe Tweets"><img src="{{ '/assets/img/twitter.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20"></a>
 <p></p><p></p>
 
 
