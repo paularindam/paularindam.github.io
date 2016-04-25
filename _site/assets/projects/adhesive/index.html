@@ -20,7 +20,7 @@
     <!-- Stylesheet -->
     <link rel="stylesheet" href="/assets/css/style.css">
     <!--[if IE 8]><link rel="stylesheet" href="/assets/css/ie.css"><![endif]-->
-    <link rel="canonical" href="/assets/projects/pinterest/">
+    <link rel="canonical" href="/assets/projects/adhesive/">
 
     <!-- Modernizr -->
     <script src="/assets/js/modernizr.custom.15390.js" type="text/javascript"></script>
@@ -82,13 +82,11 @@
       <div class="container">
          <div class="post">
 	<h1 class="pageTitle">Deep Mining Pinterest </h1>
-	<img src="/assets/img/pinterest.jpg" alt="" />
-	Large, deep convolutional neural networks (based on both a self-developed library on theano
-	and torch7) are trained to classify ~1 million real-life images from Pinterest, into 1300+
-	different classes. Architectures including AlexNet, VGG, GoogLeNet are experimented. We
-	employ frequent itemset mining to group labels into superclasses, and embed this information
-	into the loss function to improve accuracy.
-
+	<img src="/assets/img/adhesive.jpg" alt="" />
+	The problem is related to a general optimization setting: a forward model is at hand that
+	produces y from any input pattern x, and the purpose is to find x that optimize y. While the
+	forward model is non-differentiable and parameters non-learnable, we turn it into a neural
+	model, which once fixed, can be transferred to have the patten x learned.
 </div>
 
       </div>
