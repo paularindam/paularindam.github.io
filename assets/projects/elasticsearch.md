@@ -6,9 +6,8 @@ title: Arindam Paul
 <div class="post">
 	<h1 class="pageTitle">About Arindam's projects</h1>
 	<img src="{{ '/assets/img/preview.jpg' | prepend: site.baseurl }}" alt="">
-	<!-- <p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p> -->
-	<h2>"I just bought"</h2>
 
+	<h2>"I just bought"</h2>
+	<p> It is quite common to see "I just bought"
 
 </div>

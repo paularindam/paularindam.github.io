@@ -4,24 +4,21 @@ title: Arindam Paul
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Arindam's projects</h1>
-	<img src="{{ '/assets/img/preview.jpg' | prepend: site.baseurl }}" alt="">
-	<!-- <p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p> -->
-	<h2>Sybil:Site under construction</h2>
+	<h1 class="pageTitle">Mining Golden Globe Tweets</h1>
+	<img src="{{ '/assets/img/goldenglobe.png' | prepend: site.baseurl }}" alt="">
 
-	<!-- <ul>
+	<!-- <p>Large, deep convolutional neural networks (based on both a self-developed library on theano
+	and torch7) are trained to classify ~1 million real-life images from Pinterest, into 1300+
+	different classes. Architectures including AlexNet, VGG, GoogLeNet are experimented. We
+	employ frequent itemset mining to group labels into superclasses, and embed this information
+	into the loss function to improve accuracy.</p> -->
+	<p>Users tweet a great deal during award ceremonies. They tweet about who won the awards. They tweet about who should have won instead. Also, they tweet about their own categories: who looked most beautiful/handsome, who was the best dressed etc.</p>
 
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul> -->
+<p>	We built a semantic processing system which looks at all tweets during +/-2 hrs of the Golden Globe awards which use the official hashtag #GoldenGlobe2014. In the first phase, we evaluated who won the awards <i>based on the tweets</i>. This was a trickier problem than it seems at first glance. This is because twitter users often tweet. </p>
+<img src="{{ '/assets/img/twitter.jpg' | prepend: site.baseurl }}" alt="">
+
+<p>In the second phase, we extended our system to look for tweets which did not use the official hashtag. Many users are not aware of the official hashtag and some make typos. We used regular expressions to look for hashtags after manually checking
+
+<p>In the last phase, we used our system to look for winners in <i>user categories</i> e.g. best dressed. Of course, there is no absolute truth values for these categories other than what some news outlets have
+
 </div>
