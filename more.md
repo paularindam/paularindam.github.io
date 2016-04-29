@@ -11,7 +11,7 @@ title: Arindam Paul
 	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p> -->
 <img src="{{ '/assets/img/food1.png' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20">
 <img src="{{ '/assets/img/nu1.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20">
-<img src="{{ '/assets/img/travel1.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20">
+<img src="{{ '/assets/img/wisconsin.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20">
 
 <h3><font color="green">Upcoming deadlines:</font></h3>
 <!-- <img src="{{ '/assets/img/preview.jpg' | prepend: site.baseurl }}" alt=""> -->
