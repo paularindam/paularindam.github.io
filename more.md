@@ -4,6 +4,9 @@ title: Arindam Paul
 ---
 
 <div class="home" align="justify">
+<p><h3><font color="green">Word clouds of my publications:</font></h3></p>
+<p style="text-align:center"><img src="{{ '/assets/img/wordcloud1.png' | prepend: site.baseurl }}" alt="" height="320" width="320">
+<img src="{{ '/assets/img/wordcloud2.png' | prepend: site.baseurl }}" alt="" height="320" width="320"></p>
 
 	<h3><font color="green">Selected photos:</font></h3>
 	<img src="{{ '/assets/img/personal1.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20">

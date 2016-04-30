@@ -3,6 +3,7 @@ layout: default
 title: Arindam Paul
 ---
 <div class="home" align="justify">
+<p style="text-align:right"><a href="/assets/pdf/ArindamPaul-CV.pdf"><img src="{{ '/assets/img/pdf.png' | prepend: site.baseurl }}" alt="" height="56" width="56"></a></p>
 <p><h4><font color="green">Research Statement and Objective</font></h4></p>
 I study <font color="purple"><i>how to accelerate materials discovery using machine learning</i></font>. My research draws from the fields of machine learning, computational materials science, neural networks and cheminformatics. <font color="purple"><i>I am actively seeking a research internship for Spring or Summer 2017</i></font>.
 <p><h4><font color="green">Interests</font></h4></p>
