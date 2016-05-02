@@ -18,13 +18,13 @@ title: Arindam Paul
   </font></p>
     <img src="{{ '/assets/img/contact.jpg' | prepend: site.baseurl }}" alt="" height="280" weight ="280">
   </div>
-  <form action="http://formspree.io/your@mail.com" method="POST">
+  <form action="MAILTO:arindam.paul@eecs.northwestern.edu" method="POST" enctype="text/plain">
 
 
     <label for="name">Name</label>    
-    <input type="text" id="name" name="name" class="full-width"><br>
+    <input type="text" id="name" name="Name of the Sender" class="full-width"><br>
     <label for="email">Email Address</label>
-    <input type="email" id="email" name="_replyto" class="full-width"><br>
+    <input type="email" id="email" name="replyto" class="full-width"><br>
     <label for="message">Message</label>
     <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
     <input type="submit" value="Send" class="button">

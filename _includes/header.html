@@ -14,14 +14,15 @@
                   <a href="https://www.linkedin.com/in/arndmpaul#endorsements">Endorsements</a>
 
                 </li>
-                 <!-- <li>
-                   <a href="http://arndmpaul.blogspot.com/">Blog</a>
 
-                 </li> -->
                  {% for link in site.navigation2 %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
                  <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
                      <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
                  </li>
+                 <!-- <li>
+                   <a href="/contact.php">Contact</a>
+
+                 </li> -->
                  {% endfor %}
              </ul>
          </nav>
