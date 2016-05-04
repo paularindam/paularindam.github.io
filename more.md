@@ -15,7 +15,12 @@ title: Arindam Paul
 <img src="{{ '/assets/img/food1.png' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20">
 <img src="{{ '/assets/img/nu1.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20">
 <img src="{{ '/assets/img/wisconsin.jpg' | prepend: site.baseurl }}" alt="" height="280" width="350" hspace="15" vspace="20">
-
+<h3><font color="green">Tips for researchers:</font></h3>
+<p><ul>
+<li>Tips for writing Technical Papers by <a href="http://cs.stanford.edu/people/widom/paper-writing.html">Jennifer Widom</a></li>
+<li>How to Give an academic Talk by Paul Edwards (<a href="http://www.slideshare.net/pablitosan/how-totalk">slides</a> and <a href="https://umich.academia.edu/PaulEdwards/How-to-Give-a-Talk">pdf</a>)</li>
+<li>How (not) to Have a Bad Career in Academia by <a href="https://www.cs.berkeley.edu/~pattrsn/talks/BadCareer.pdf">David Patterson</a></li>
+</ul></p>
 <h3><font color="green">Upcoming deadlines:</font></h3>
 <!-- <img src="{{ '/assets/img/preview.jpg' | prepend: site.baseurl }}" alt=""> -->
 <!-- <p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
