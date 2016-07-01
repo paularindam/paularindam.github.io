@@ -117,8 +117,9 @@ network<font color="purple"> (Go) </font></li>
 
 <p><h4><font color="green">Service</font></h4></p>
 <ul><li>Student volunteer at ACM CSCW 2014 Program Committee </li>
+<li>Peer Reviewer for ICDM 2016</li>
 <li>Peer Reviewer for InfoComm 2013</li>
-<li>Peer Reviewer for <a href="https://www.aiaa.org/journals/">AIAA</a></li>
+<li>Peer Reviewer for <a href="https://www.aiaa.org/journals/">AIAA 2016</a></li>
 </ul>
 
 <p><h4><font color="green">References (on request)</font></h4></p>
