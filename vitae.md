@@ -31,6 +31,8 @@ I study <font color="purple"><i>how to accelerate materials discovery using mach
 <li>Advisor: <a href="http://www.bits-pilani.ac.in/pilani/khari/profile">Prof. K. Haribabu</a></li></ul>
 
 <p><h4><font color="green">Publications</font></h4></p>
+<p><b>A. Paul</b>,A.Agrawal, W.Liao and A.Choudhary. <a href="/assets/pdf/anonymine.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">AnonyMine: Mining anonymous social media posts using psycho-lingual and crowd-sourced dictionaries</font></a>. <i>Workshop on Sentiment Discovery and Opinion Mining at 22nd ACM Conference on Knowledge Discovery and Data Mining,2016cd </i></p>
+
 <p>J.Birnholtz, N.A.R. Merola, and <b>A. Paul</b>. <a href="/assets/pdf/FCB.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">"Is it Weird to Still Be a Virgin?": Anonymous, Locally Targeted Questions on Facebook Confession Boards</font></a>. <i>ACM Conference on Human Factors in Computing Systems 2015.</i></p>
 
 <p><b>A. Paul</b>, Varuni G., J.S. Challa and Y. Sharma <a href="/assets/pdf/HADCLEAN.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">HADCLEAN: A Hybrid Approach for Data Cleaning Techniques in Data Warehouses</font></a>,<i> IEEE International Conference on Information Retrieval and Knowledge Management(CAMP) 2012</i></p>
