@@ -125,5 +125,3 @@ network<font color="purple"> (Go) </font></li>
 <li>Dr. Oliver Cossairt - Assistant Professor of EECS (Northwestern University)</li>
 <li>Dr. K. Haribabu - Assistant Professor of CSIS (BITS Pilani)</li>
 </ul>
-
-</div>
