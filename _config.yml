@@ -16,16 +16,17 @@ navigation1:
    url: /index.html
  - title: Personal
    url: /about
- - title: Projects
+ - title: Research
+   url: /research
+ - title: Portfolio
    url: /projects
  - title: Publications
    url: /publications
- - title: CV
-   url: /vitae
+
 
 navigation2:
- - title: More
-   url: /more
+ - title: CV
+   url: /vitae
  - title: Contact
    url: /contact
 
