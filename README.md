@@ -1,6 +1,6 @@
 
-
-## Features
+Webpage of Arindam Paul, PhD Candidate at Northwestern University
+<!-- ## Features
 
 - Minimal, Type Focused Design
 - Built with SASS + COMPASS
@@ -26,4 +26,4 @@ The main settings can be found inside the `_config.yml` file:
 - **paginate:** the amount of posts displayed on homepage
 - **navigation:** these are the links in the main site navigation
 - **social** diverse social media usernames (optional)
-- **google_analytics** Google Analytics key (optional)
+- **google_analytics** Google Analytics key (optional) -->
