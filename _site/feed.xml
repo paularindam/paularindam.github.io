@@ -3,11 +3,11 @@
   <channel>
     <title>Arindam Paul</title>
     <description>My website</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Oct 2016 13:42:52 -0500</pubDate>
-    <lastBuildDate>Sun, 23 Oct 2016 13:42:52 -0500</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4445/</link>
+    <atom:link href="http://localhost:4445/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Nov 2016 20:12:09 -0500</pubDate>
+    <lastBuildDate>Fri, 04 Nov 2016 20:12:09 -0500</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
     
       
       <item>
@@ -30,8 +30,8 @@
 </description>
         
         <pubDate>Wed, 10 Dec 2014 00:00:00 -0600</pubDate>
-        <link>/blog/test-post/</link>
-        <guid isPermaLink="true">/blog/test-post/</guid>
+        <link>http://localhost:4445/blog/test-post/</link>
+        <guid isPermaLink="true">http://localhost:4445/blog/test-post/</guid>
         
         
       </item>

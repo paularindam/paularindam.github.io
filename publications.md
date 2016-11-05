@@ -5,7 +5,10 @@ title: Arindam Paul
 
 <div class="home" align="justify">
 
-  <p><b>A. Paul</b>,A.Agrawal, W.Liao and A.Choudhary. <a href="/assets/pdf/anonymine.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">AnonyMine: Mining anonymous social media posts using psycho-lingual and crowd-sourced dictionaries</font></a>. <i>Workshop on Sentiment Discovery and Opinion Mining at 22nd ACM Conference on Knowledge Discovery and Data Mining,2016cd </i></p>
+<p>Ruoqian Liu, Diana Palsetia, <b>Arindam Paul</b>, Reda Al-Bahrani, Dipendra Jha, Wei-keng Liao, Ankit Agrawal, and Alok Choudhary. <a href="/assets/pdf/pinternet.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">PinterNet: A Thematic Label Curation Tool for Large Image Datasets</font></a>. <i>Workshop on Open Science in Big Data at 2016 IEEE Bigdata Conference</i></p>
+
+
+  <p><b>A. Paul</b>,A.Agrawal, W.Liao and A.Choudhary. <a href="/assets/pdf/anonymine.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">AnonyMine: Mining anonymous social media posts using psycho-lingual and crowd-sourced dictionaries</font></a>. <i>Workshop on Sentiment Discovery and Opinion Mining at 22nd ACM Conference on Knowledge Discovery and Data Mining,2016 </i></p>
 
   <p>J.Birnholtz, N.A.R. Merola, and <b>A. Paul</b>. <a href="/assets/pdf/FCB.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">"Is it Weird to Still Be a Virgin?": Anonymous, Locally Targeted Questions on Facebook Confession Boards</font></a>. <i>ACM Conference on Human Factors in Computing Systems 2015.</i></p>
 
