@@ -16,8 +16,6 @@ navigation1:
    url: /index.html
  - title: Personal
    url: /about
- - title: Research
-   url: /research
  - title: Portfolio
    url: /projects
  - title: Publications
