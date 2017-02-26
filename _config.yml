@@ -20,13 +20,11 @@ navigation1:
    url: /publications
  - title: CV
    url: /vitae
-- title: Personal
-    url: /about
+ - title: Personal
+   url: /about
 
 
 navigation2:
- # - title: More
- #   url: /more
  - title: Contact
    url: /contact
 
