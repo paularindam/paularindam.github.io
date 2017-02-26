@@ -14,8 +14,6 @@ paginate: 6
 navigation1:
  - title: Home
    url: /index.html
- - title: Personal
-   url: /about
  - title: Portfolio
    url: /projects
  - title: Publications
@@ -27,6 +25,8 @@ navigation1:
 navigation2:
  # - title: More
  #   url: /more
+  - title: Personal
+    url: /about
  - title: Contact
    url: /contact
 
