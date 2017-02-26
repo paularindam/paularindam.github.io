@@ -22,13 +22,13 @@ navigation1:
    url: /projects
  - title: Publications
    url: /publications
+ - title: CV
+   url: /vitae
 
 
 navigation2:
  - title: More
    url: /more
- # - title: CV
- #   url: /vitae
  - title: Contact
    url: /contact
 
