@@ -4,7 +4,6 @@ title: Arindam Paul
 ---
 
 <div class="home" align="justify">
-	<!-- <h1 class="pageTitle">About Me</h1> -->
 
 	<img src="{{ '/assets/img/preview.jpg' | prepend: site.baseurl }}" alt="" >
 	<h4 style="text-align:center"><i>What did I learn in grad school ? </i>  
