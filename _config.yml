@@ -14,7 +14,7 @@ paginate: 6
 navigation1:
  - title: Home
    url: /index.html
- - title: Portfolio
+ - title: Projects
    url: /projects
  - title: Publications
    url: /publications
