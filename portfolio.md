@@ -3,8 +3,6 @@ layout: default
 title: Arindam Paul
 ---
 
-<!-- <img src="{{ '/assets/img/HOPV.png' | prepend: site.baseurl }}" alt="" height="280" width="350"  hspace="15" vspace="20" style="border:4px solid black">  -->
-
 <div class="intro">
 	<!-- <h1 class="pageTitle"><font color="orange">Page under construction</font></h1> -->
 

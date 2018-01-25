@@ -11,22 +11,20 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 6
 
-navigation1:
+navigation:
  - title: Home
    url: /index.html
  - title: Projects
-   url: /projects
+   url: /portfolio
  - title: Publications
    url: /publications
  - title: CV
    url: /vitae
-
-
-navigation2:
- - title: Personal
-   url: /about
  - title: Contact
    url: /contact
+
+
+
 
 
 

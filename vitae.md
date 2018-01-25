@@ -36,17 +36,22 @@ title: Arindam Paul
 <li>Advisor: <a href="http://www.bits-pilani.ac.in/pilani/khari/profile">Prof. K. Haribabu</a></li></ul>
 
 <p><h4><font color="green">Professional Experience</font></h4></p>
-<p><h5><font color="purple"> Boeing Narus Inc.: Summer Research Intern 2013</font></h5>
-<ul><li>Understanding Collaboration Among Online Advertising and Analytics Services</li>
-<li>Observed multiple 3rd-party services sharing user’s private information with each other</li> <li>Investigated how these services use means to obfuscate this parameter sharing</li></ul>
 
-<p><h5><font color="purple">Information Processing Center BITS Pilani: Database Admin 2011</font></h5>
+<p><h5><font color="purple"><a href="http://discoveredt.com/">EDT</a>: Consultant Jun 2017-</font></h5>
+<ul><li> Provided subject matter expertise to develop algorithms for topic mining on legal documents</li>
+<li>Assisted in designing models for profanity detection from company-wide email database </li></ul></p>
+
+<p><h5><font color="purple"> Boeing Cybersecurity (Narus Inc.): Jun-Sep 2013</font></h5>
+<ul><li>Generated synthetic user profiles with different demographic and interest features</li>
+<li>Developed a machine learning model for predicting user demographics and interests from ads </li></ul></p>
+
+<p><h5><font color="purple">Information Processing Center BITS Pilani: Database Admin Jan-Nov 2011</font></h5>
 <ul><li>Worked on Data mining and Data Warehousing tools used over Oracle 11g</li>
-<li>Developed a customized version of Moodle 1.9/2.0 over LAMP stack for the university On-Campus Course Management System</li></ul>
+<li>Developed a customized version of Moodle 1.9/2.0 over LAMP stack for the university On-Campus Course Management System</li></ul></p>
 
-<p><h5><font color="purple">National Thermal Power Corporation,Delhi: Summer Intern 2008</font></h5>
+<!-- <p><h5><font color="purple">National Thermal Power Corporation,Delhi: Summer Intern 2008</font></h5>
 <ul><li>Studied water treatment processes and recommended improved water treatment measures</li>
-<li>Prepared research design and surveys to study effects of pollution from the plant as part of the Environment Management Group</li></ul>
+<li>Prepared research design and surveys to study effects of pollution from the plant as part of the Environment Management Group</li></ul></p> -->
 
 <p><h4><font color="green">Fellowships</font></h4></p>
 <ul>
