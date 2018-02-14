@@ -5,7 +5,7 @@ title: Arindam Paul
 
 <div class="home" align="justify">
 
-  <p><b>A. Paul</b>, P. Acar, R. Liu, W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal. <font color="purple">Data Sampling Schemes for Microstructure Design with Vibrational Tuning Constraints</font>. <i>Journal of American Institute of Aeronautics and Astronautics (To Appear, 2018) </i></p>
+  <p><b>A. Paul</b>, P. Acar, R. Liu, W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal.<a href="/assets/pdf/datasampling-preprint.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Data Sampling Schemes for Microstructure Design with Vibrational Tuning Constraints</font></a>. <i>Journal of American Institute of Aeronautics and Astronautics, 2018 </i></p>
 
 
 <p>Ruoqian Liu, Diana Palsetia, <b>A. Paul</b>, Reda Al-Bahrani, Dipendra Jha, Wei-keng Liao, Ankit Agrawal, and Alok Choudhary. <a href="/assets/pdf/pinternet.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">PinterNet: A Thematic Label Curation Tool for Large Image Datasets</font></a>. <i>Workshop on Open Science in Big Data at 2016 IEEE Bigdata Conference</i></p>
