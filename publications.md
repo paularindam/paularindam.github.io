@@ -4,11 +4,16 @@ title: Arindam Paul
 ---
 
 <div class="home" align="justify">
+  
+  D.Jha, L.Ward, <b>A. Paul</b>, W. Liao, A. Agrawal, A. Choudhary and C. Wolverton.<a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">ElemNet: Deep Learning the Chemistry of Materials From Only Elemental Composition</font></a>. <i>Nature Scientific Reports, 2018 </i></p>
+
+  
+   <p>M.Mozaffar, <b>A. Paul</b>, R. Al-Bahrani, S. Wolff,  A. Choudhary, A. Agrawal, K. Ehmann and J.Cao.<a href="/assets/pdf/rnn_additive.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Data-Driven Prediction of the High-Dimensional Thermal History in Directed Energy Deposition Processes via Recurrent Neural Networks</font></a>. <i>Manufacturing Letters, 2018 </i></p>
 
   <p><b>A. Paul</b>, P. Acar, R. Liu, W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal.<a href="/assets/pdf/datasampling-preprint.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Data Sampling Schemes for Microstructure Design with Vibrational Tuning Constraints</font></a>. <i>Journal of American Institute of Aeronautics and Astronautics, 2018 </i></p>
 
 
-<p>Ruoqian Liu, Diana Palsetia, <b>A. Paul</b>, Reda Al-Bahrani, Dipendra Jha, Wei-keng Liao, Ankit Agrawal, and Alok Choudhary. <a href="/assets/pdf/pinternet.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">PinterNet: A Thematic Label Curation Tool for Large Image Datasets</font></a>. <i>Workshop on Open Science in Big Data at 2016 IEEE Bigdata Conference</i></p>
+<p>R. Liu, D. Palsetia, <b>A. Paul</b>, R. Al-Bahrani, D. Jha, W. Liao, A. Agrawal, and A. Choudhary. <a href="/assets/pdf/pinternet.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">PinterNet: A Thematic Label Curation Tool for Large Image Datasets</font></a>. <i>Workshop on Open Science in Big Data at 2016 IEEE Bigdata Conference</i></p>
 
 
   <p><b>A. Paul</b>, A.Agrawal, W.Liao and A.Choudhary. <a href="/assets/pdf/anonymine.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">AnonyMine: Mining anonymous social media posts using psycho-lingual and crowd-sourced dictionaries</font></a>. <i>Workshop on Sentiment Discovery and Opinion Mining at 22nd ACM Conference on Knowledge Discovery and Data Mining, 2016 </i></p>
