@@ -7,17 +7,17 @@ title: Arindam Paul
 <p><h4><font color="green">Professional Summary</font></h4></p>
 
 
- <b>Computer Scientist</b> working in <b>Data Mining</b> with 5+ years research experience seeking internship opportunities for <b>Summer 2018</b>. <br> <br> Interested in <font color="purple"><i>Data Mining, Deep Learning, Natural Language Processing, Social Media Analytics. </i></font>
+ <b>Computer Scientist</b> working in <b>Data Mining</b> with 5+ years research experience seeking full-time opportunities starting <b>April 2019</b>. <br> <br> Interested in <font color="purple"><i>Data Mining, Deep Learning, Natural Language Processing, Artificial Intelligence </i></font>
 
  <p><h4><font color="green">Computer Skills</font></h4></p>
- <ul><li>Proficient: Python, C, C++, Java, PHP, Perl, Selenium, LAMP, Go, VB, mySQL,weka</li>
- <li>Familiar: R, Gephi, Javascript, html,css, MATLAB, Hadoop, Mahout, OpenMP, MPI, .NET, Oracle, MS- SQL Server</li></ul>
+ <ul><li>Proficient: Python, Keras, Scikit-Learn, Tensorflow, Selenium, PySpark</li>
+ <li>Familiar: R, MATLAB, C, C++, Java, PHP, LAMP, SQL, weka, Gephi, Javascript, html, css, Hadoop, Mahout, MPI</li></ul>
 
 
 <p><h4><font color="green">Education</font></h4></p>
 
 <p><h5><font color="purple">Northwestern University, Evanston, Illinois</font></h5>
-<ul><li>Ph.D. Candidate, Computer Engineering (Expected: December 2018.)</li>
+<ul><li>Ph.D. Candidate, Computer Engineering (Expected: March, 2019.)</li>
 <li>Advisors: <a href="http://users.eecs.northwestern.edu/~choudhar/">Prof. Alok Choudhary</a>, <a href="http://users.eecs.northwestern.edu/~ankitag/">Prof. Ankit Agrawal</a></li></ul></p>
 
 <p><h5><font color="purple">Northwestern University, Evanston, Illinois</font></h5>
@@ -35,7 +35,10 @@ title: Arindam Paul
 <li>Thesis: <i>Detecting Sybil Attacks in P2P networks using Psychometric Analysis</i></li>
 <li>Advisor: <a href="http://www.bits-pilani.ac.in/pilani/khari/profile">Prof. K. Haribabu</a></li></ul>
 
-<p><h4><font color="green">Professional Experience</font></h4></p>
+<p><h4><font color="green">Professional Experience (last 5 years)</font></h4></p>
+<p><h5><font color="purple"><a href="http://discoveredt.com/">EDT</a>: Consultant Jun 2017-</font></h5>
+<ul><li> Provided subject matter expertise to develop algorithms for topic mining on legal documents</li>
+<li>Assisted in designing models for profanity detection from company-wide email database </li></ul></p>
 
 <p><h5><font color="purple"><a href="http://discoveredt.com/">EDT</a>: Consultant Jun 2017-</font></h5>
 <ul><li> Provided subject matter expertise to develop algorithms for topic mining on legal documents</li>
@@ -44,10 +47,10 @@ title: Arindam Paul
 <p><h5><font color="purple"> Boeing Cybersecurity (Narus Inc.): Jun-Sep 2013</font></h5>
 <ul><li>Generated synthetic user profiles with different demographic and interest features</li>
 <li>Developed a machine learning model for predicting user demographics and interests from ads </li></ul></p>
-
+<!--
 <p><h5><font color="purple">Information Processing Center BITS Pilani: Database Admin Jan-Nov 2011</font></h5>
 <ul><li>Worked on Data mining and Data Warehousing tools used over Oracle 11g</li>
-<li>Developed a customized version of Moodle 1.9/2.0 over LAMP stack for the university On-Campus Course Management System</li></ul></p>
+<li>Developed a customized version of Moodle 1.9/2.0 over LAMP stack for the university On-Campus Course Management System</li></ul></p> -->
 
 <!-- <p><h5><font color="purple">National Thermal Power Corporation,Delhi: Summer Intern 2008</font></h5>
 <ul><li>Studied water treatment processes and recommended improved water treatment measures</li>
@@ -62,9 +65,15 @@ title: Arindam Paul
 
 
 <p><h4><font color="green">Publications</font></h4></p>
+<p><b>A. Paul</b>, D.Jha, R. Al-Bahrani,  W. Liao,  A. Choudhary and A. Agrawal.<a href="/assets/pdf/chemixnet.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">CheMixNet: Mixed DNN Architectures for Predicting Chemical Properties using Multiple Molecular Representations</font></a>. <i> NIPS Workshop on Machine Learning for Molecules and Materials, 2018 </i></p>
 
-<p><b>A. Paul</b>, P. Acar, R. Liu, W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal. <font color="purple">Data Sampling Schemes for Microstructure Design with Vibrational Tuning Constraints</font>. <i>Journal of American Institute of Aeronautics and Astronautics (To Appear, 2018) </i></p>
+<p>D.Jha, L.Ward, <b>A. Paul</b>, W. Liao, A. Agrawal, A. Choudhary and C. Wolverton.<a href="/assets/pdf/ElemNet.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">ElemNet: Deep Learning the Chemistry of Materials From Only Elemental Composition</font></a>. <i> Nature Scientific Reports, 2018 </i></p>
 
+
+<p>M.Mozaffar, <b>A. Paul</b>, R. Al-Bahrani, S. Wolff,  A. Choudhary, A. Agrawal, K. Ehmann and J.Cao.<a href="/assets/pdf/rnn_additive.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Data-Driven Prediction of the High-Dimensional Thermal History in Directed Energy Deposition Processes via Recurrent Neural Networks</font></a>. <i>Manufacturing Letters, 2018 </i></p>
+
+
+<p><b>A. Paul</b>, P. Acar, R. Liu, W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal. <font color="purple">Data Sampling Schemes for Microstructure Design with Vibrational Tuning Constraints</font>. <i>Journal of American Institute of Aeronautics and Astronautics, 2018 </i></p>
 
 <p><b>A. Paul</b>,A.Agrawal, W.Liao and A.Choudhary. <a href="/assets/pdf/anonymine.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">AnonyMine: Mining anonymous social media posts using psycho-lingual and crowd-sourced dictionaries</font></a>. <i>Workshop on Sentiment Discovery and Opinion Mining at 22nd ACM Conference on Knowledge Discovery and Data Mining,2016 </i></p>
 
