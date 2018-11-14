@@ -9,7 +9,7 @@ title: Arindam Paul
 
    
    
-   <p><b>A. Paul</b>, D. Jha, R. Al-Bahrani,  W. Liao,  A. Choudhary and A. Agrawal.<a href="/assets/pdf/chemixnet.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">CheMixNet: Mixed DNN Architectures for Predicting Chemical Properties using Multiple Molecular Representations</font></a>. <i> NIPS Workshop on Machine Learning for Molecules and Materials, 2018 </i></p>
+   <p><b>A. Paul</b>, D. Jha, R. Al-Bahrani,  W. Liao,  A. Choudhary and A. Agrawal.<a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">CheMixNet: Mixed DNN Architectures for Predicting Chemical Properties using Multiple Molecular Representations</font></a>. <i> NIPS Workshop on Machine Learning for Molecules and Materials, 2018 </i></p>
    
    <p>D.Jha, L.Ward, <b>A. Paul</b>, W. Liao, A. Agrawal, A. Choudhary and C. Wolverton.<a href="/assets/pdf/ElemNet.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">ElemNet: Deep Learning the Chemistry of Materials From Only Elemental Composition</font></a>. <i> Nature Scientific Reports, 2018 </i></p>
 
