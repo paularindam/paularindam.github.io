@@ -36,9 +36,10 @@ title: Arindam Paul
 <li>Advisor: <a href="http://www.bits-pilani.ac.in/pilani/khari/profile">Prof. K. Haribabu</a></li></ul>
 
 <p><h4><font color="green">Professional Experience (last 5 years)</font></h4></p>
-<p><h5><font color="purple"><a href="http://discoveredt.com/">EDT</a>: Consultant Jun 2017-</font></h5>
-<ul><li> Provided subject matter expertise to develop algorithms for topic mining on legal documents</li>
-<li>Assisted in designing models for profanity detection from company-wide email database </li></ul></p>
+
+<p><h5><font color="purple"> Northwestern Mutual: Jun-Aug 2018</font></h5>
+<ul><li>Developed distributed image to text conversion algorithms for detecting responses from scanned questionnaires</li>
+<li>Developed a noise reduction algorithm to denoise scanned and photocopied questionnaires </li></ul></p>
 
 <p><h5><font color="purple"><a href="http://discoveredt.com/">EDT</a>: Consultant Jun 2017-</font></h5>
 <ul><li> Provided subject matter expertise to develop algorithms for topic mining on legal documents</li>
