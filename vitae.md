@@ -3,7 +3,7 @@ layout: default
 title: Arindam Paul
 ---
 <div class="home" align="justify">
-<p style="text-align:right"><a href="/assets/pdf/ArindamPaul-CV.pdf"><img src="{{ '/assets/img/resume.png' | prepend: site.baseurl }}" alt="" height="56"></a></p>
+<p style="text-align:right"><a href="/assets/pdf/resume-1.pdf" target="_blank"><img src="{{ '/assets/img/resume-1.png' | prepend: site.baseurl }}" alt="" height="56"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/assets/pdf/resume-2.pdf" target="_blank"><img src="{{ '/assets/img/resume-2.png' | prepend: site.baseurl }}" alt="" height="56"></a></p>
 <p><h4><font color="green">Professional Summary</font></h4></p>
 
 
