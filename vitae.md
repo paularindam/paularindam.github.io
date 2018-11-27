@@ -17,7 +17,7 @@ title: Arindam Paul
 <p><h4><font color="green">Education</font></h4></p>
 
 <p><h5><font color="purple">Northwestern University, Evanston, Illinois</font></h5>
-<ul><li>Ph.D. Candidate, Computer Engineering (Expected: March, 2019.)</li>
+<ul><li>Ph.D. Candidate, Computer Engineering (Expected: May, 2019.)</li>
 <li>Advisors: <a href="http://users.eecs.northwestern.edu/~choudhar/">Prof. Alok Choudhary</a>, <a href="http://users.eecs.northwestern.edu/~ankitag/">Prof. Ankit Agrawal</a></li></ul></p>
 
 <p><h5><font color="purple">Northwestern University, Evanston, Illinois</font></h5>
