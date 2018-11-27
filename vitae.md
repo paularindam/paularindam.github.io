@@ -7,7 +7,7 @@ title: Arindam Paul
 <p><h4><font color="green">Professional Summary</font></h4></p>
 
 
- <b>Computer Scientist</b> working in <b>Data Mining</b> with 5+ years research experience seeking full-time opportunities starting <b>April 2019</b>. <br> <br> Interested in <font color="purple"><i>Data Mining, Deep Learning, Natural Language Processing, Artificial Intelligence </i></font>
+ <b>Computer Scientist</b> working in <b>Data Mining</b> with 5+ years research experience seeking full-time opportunities starting <b>July 2019</b>. <br> <br> Interested in <font color="purple"><i>Data Mining, Deep Learning, Natural Language Processing, Artificial Intelligence </i></font>
 
  <p><h4><font color="green">Computer Skills</font></h4></p>
  <ul><li>Proficient: Python, Keras, Scikit-Learn, Tensorflow, Selenium, PySpark</li>
