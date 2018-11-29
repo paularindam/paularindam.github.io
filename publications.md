@@ -26,7 +26,7 @@ title: Arindam Paul
 
 <p><b>A. Paul</b>, Varuni G., J.S. Challa and Y. Sharma. <a href="/assets/pdf/HADCLEAN.pdf" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">HADCLEAN: A Hybrid Approach for Data Cleaning Techniques in Data Warehouses</font></a>,<i> IEEE International Conference on Information Retrieval and Knowledge Management(CAMP), 2012</i></p>
 
-  <p> K Haribabu, C.Hota and <b>A. Paul</b>. <a href="/assets/pdf/GAUR.pdf"  target="_blank"style="text-decoration:none" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'"><font color="purple">GAUR: A Method to Detect Sybil Groups in Peer-to-Peer Overlays</font></a>, <i>International Journal of Grid and Utility Computing 2012, Vol.3</i></p>
+  <p> K Haribabu, C.Hota and <b>A. Paul</b>. <a href="/assets/pdf/GAUR.pdf"  target="_blank" style="text-decoration:none" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'"><font color="purple">GAUR: A Method to Detect Sybil Groups in Peer-to-Peer Overlays</font></a>, <i>International Journal of Grid and Utility Computing 2012, Vol.3</i></p>
 
   <p><b>A. Paul</b>, J.S. Challa, Y.Dada, V.Nerella, P.R. Srivastava and A.P.Singh. <a href="/assets/pdf/ISQE.pdf" target="_blank" style="text-decoration:none" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'"><font color="purple">Integrated Software Quality Evaluation: A Fuzzy Multi-Criteria Approach</font></a>, <i> Journal of Information Processing Systems (JIPS) 2011 Volume 7 </i></p>
 
