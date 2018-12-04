@@ -63,6 +63,7 @@ title: Arindam Paul
 
 <p>D.Jha, L.Ward, <b>A. Paul</b>, W. Liao, A. Agrawal, A. Choudhary and C. Wolverton.<a href="https://www.nature.com/articles/s41598-018-35934-y" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">ElemNet: Deep Learning the Chemistry of Materials From Only Elemental Composition</font></a>. <i> Nature Scientific Reports, 2018 </i></p>
 
+<p><b>A. Paul</b>, P. Acar,  W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal.<a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Microstructure Optimization with Constrained Design Objectives using Machine Learning-Based Feedback-Aware Data-Generation</font></a>. <i>Journal of Computational Materials Science, 2018 (in review)</i></p>
 
 <p>M.Mozaffar, <b>A. Paul</b>, R. Al-Bahrani, S. Wolff,  A. Choudhary, A. Agrawal, K. Ehmann and J.Cao.<a href="/assets/pdf/rnn_additive.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Data-Driven Prediction of the High-Dimensional Thermal History in Directed Energy Deposition Processes via Recurrent Neural Networks</font></a>. <i>Manufacturing Letters, 2018 </i></p>
 
