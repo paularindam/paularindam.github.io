@@ -5,11 +5,9 @@ title: Arindam Paul
 
 <div class="home" align="justify">
 
-   <p><b>A. Paul</b>, D. Jha, R. Al-Bahrani,  W. Liao,  A. Choudhary and A. Agrawal.<a href="https://arxiv.org/abs/1811.08283" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">CheMixNet: Mixed DNN Architectures for Predicting Chemical Properties using Multiple Molecular Representations</font></a>. <i> 2018 Conference on Neural Information Processing Systems (NIPS) </i></p>
-
-   <p><b>A. Paul</b>, P. Acar,  W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal.<a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Microstructure Optimization with Constrained Design Objectives using Machine Learning-Based Feedback-Aware Data-Generation</font></a>. <i>Journal of Computational Materials Science, 2019 </i></p>
-
    <p>D.Jha, L.Ward, <b>A. Paul</b>, W. Liao, A. Choudhary, C. Wolverton and A. Agrawal.<a href="https://www.nature.com/articles/s41598-018-35934-y" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">ElemNet: Deep Learning the Chemistry of Materials From Only Elemental Composition</font></a>. <i> Nature Scientific Reports, 2018 </i></p>
+
+   <p><b>A. Paul</b>, D. Jha, R. Al-Bahrani,  W. Liao,  A. Choudhary and A. Agrawal.<a href="https://arxiv.org/abs/1811.08283" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">CheMixNet: Mixed DNN Architectures for Predicting Chemical Properties using Multiple Molecular Representations</font></a>. <i> 2018 Conference on Neural Information Processing Systems (NIPS) </i></p>
 
 
    <p>M.Mozaffar, <b>A. Paul</b>, R. Al-Bahrani, S. Wolff,  A. Choudhary, A. Agrawal, K. Ehmann and J.Cao.<a href="https://www.sciencedirect.com/science/article/pii/S2213846318300804" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Data-Driven Prediction of the High-Dimensional Thermal History in Directed Energy Deposition Processes via Recurrent Neural Networks</font></a>. <i>Manufacturing Letters, 2018 </i></p>
