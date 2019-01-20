@@ -5,7 +5,7 @@ title: Arindam Paul
 
 <div class="home" align="justify">
 
-   <p><b>A. Paul</b>, P. Acar,  W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal.<a href="/assets/pdf/microstructure_cms.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Microstructure Optimization with Constrained Design Objectives using Machine Learning-Based Feedback-Aware Data-Generation</font></a>. <i>Journal of Computational Materials Science, 2019 </i></p>
+   <p><b>A. Paul</b>, P. Acar,  W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal.<a href="/assets/pdf/microstructure_cms.pdf" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Microstructure Optimization with Constrained Design Objectives using Machine Learning-Based Feedback-Aware Data-Generation</font></a>. <i>Journal of Computational Materials Science, 2019 </i></p>
 
    <p><b>A. Paul</b>, D. Jha, W. Liao,  A. Choudhary and A. Agrawal.<a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Transfer Learning Using Ensemble Neural Nets for Organic Solar Cell Screening</font></a>. <i>International Joint Conference on Neural Networks (in submission)</i></p>
 
@@ -15,7 +15,7 @@ title: Arindam Paul
    <p>D.Jha, L.Ward, <b>A. Paul</b>, W. Liao, A. Choudhary, C. Wolverton and A. Agrawal.<a href="https://www.nature.com/articles/s41598-018-35934-y" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">ElemNet: Deep Learning the Chemistry of Materials From Only Elemental Composition</font></a>. <i> Nature Scientific Reports, 2018 </i></p>
 
 
-   <p>M.Mozaffar, <b>A. Paul</b>, R. Al-Bahrani, S. Wolff,  A. Choudhary, A. Agrawal, K. Ehmann and J.Cao.<a href="https://www.sciencedirect.com/science/article/pii/S2213846318300804" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Data-Driven Prediction of the High-Dimensional Thermal History in Directed Energy Deposition Processes via Recurrent Neural Networks</font></a>. <i>Manufacturing Letters, 2018 </i></p>
+   <p>M.Mozaffar, <b>A. Paul</b>, R. Al-Bahrani, S. Wolff,  A. Choudhary, A. Agrawal, K. Ehmann and J.Cao.<a href=""/assets/pdf/rnn_additive.pdf"" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Data-Driven Prediction of the High-Dimensional Thermal History in Directed Energy Deposition Processes via Recurrent Neural Networks</font></a>. <i>Manufacturing Letters, 2018 </i></p>
 
   <p><b>A. Paul</b>, P. Acar, R. Liu, W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal.<a href="/assets/pdf/datasampling-preprint.pdf" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Data Sampling Schemes for Microstructure Design with Vibrational Tuning Constraints</font></a>. <i>Journal of American Institute of Aeronautics and Astronautics, 2018 </i></p>
 
