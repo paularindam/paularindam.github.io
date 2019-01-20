@@ -5,7 +5,7 @@ title: Arindam Paul
 
 <div class="home" align="justify">
 
-   <p><b>A. Paul</b>, P. Acar,  W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal.<a href="https://authors.elsevier.com/tracking/article/details.do?aid=8798&jid=COMMAT&surname=Paul" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Microstructure Optimization with Constrained Design Objectives using Machine Learning-Based Feedback-Aware Data-Generation</font></a>. <i>Journal of Computational Materials Science, 2019 </i></p>
+   <p><b>A. Paul</b>, P. Acar,  W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal.<a href="/assets/pdf/microstructure_cms.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Microstructure Optimization with Constrained Design Objectives using Machine Learning-Based Feedback-Aware Data-Generation</font></a>. <i>Journal of Computational Materials Science, 2019 </i></p>
 
    <p><b>A. Paul</b>, D. Jha, R. Al-Bahrani,  W. Liao,  A. Choudhary and A. Agrawal.<a href="https://arxiv.org/abs/1811.08283" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">CheMixNet: Mixed DNN Architectures for Predicting Chemical Properties using Multiple Molecular Representations</font></a>. <i> 2018 Conference on Neural Information Processing Systems (NIPS) </i></p>
 
