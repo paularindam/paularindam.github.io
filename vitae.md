@@ -52,9 +52,10 @@ title: Arindam Paul
 
 <p><h4><font color="green">Fellowships</font></h4></p>
 <ul>
-<li>Walter P. Murphy Fellowship, during 1st year of PhD </li>
-<li>Segal Design Cluster Fellowship, during 3rd year of PhD </li>
-<li>Predictive Science & Engineering Design Cluster Fellowship, during 5th year of PhD </li>
+<li>McCormick Dean's Commendation Fellowship, 2018 Spring </li>
+<li>Predictive Science & Engineering Design Cluster Fellowship, 2016-17 </li>
+<li>Segal Design Cluster Fellowship, 2014-15 </li>
+<li>Walter P. Murphy Fellowship, 2012-13 </li>
 </ul>
 
 
