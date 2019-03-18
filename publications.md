@@ -11,6 +11,12 @@ title: Arindam Paul
 
 <p><b>A. Paul</b>, M.Mozaffar, W. Liao,  A. Choudhary, J. Cao and A. Agrawal.<a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A real-time iterative approach for temperature profile prediction in additive manufacturing processes</font></a>. <i>25th ACM SIG Conference on Knowledge Discovery and Data Mining (KDD), 2019 (in submission)</i></p>
 
+<p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Mining Locally-Anonymous Taboo Confessions using Psycholingual and Crowd-Sourced Dictionaries</font></a>. <i> Journal of Health Informatics (under review)</i></p>
+
+<p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Text Translation as Data Augmentation for Neural Network Modeling of Mental Health Confessions </font></a>. <i> Journal of Health Informatics (in preparation)</i></p>
+
+<p><b>A. Paul</b>, A. Furmanchuk, W. Liao, A. Choudhary and A. Agrawal.  <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">  Organic Molecule Prediction for Photovoltaic Applications Using Extremely Randomized Trees </font></a>. <i>Journal of Molecular Informatics (under review)</i></p>
+
    <p><b>A. Paul</b>, P. Acar,  W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal.<a href="/assets/pdf/microstructure_cms.pdf" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Microstructure Optimization with Constrained Design Objectives using Machine Learning-Based Feedback-Aware Data-Generation</font></a>. <i>Journal of Computational Materials Science, 2019 </i></p>
 
 
