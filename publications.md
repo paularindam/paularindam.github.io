@@ -11,7 +11,7 @@ title: Arindam Paul
 
 <p><b>A. Paul</b>, M.Mozaffar, W. Liao,  A. Choudhary, J. Cao and A. Agrawal.<a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A real-time iterative approach for temperature profile prediction in additive manufacturing processes</font></a>. <i>25th ACM SIG Conference on Knowledge Discovery and Data Mining (KDD), 2019 (under review)</i></p>
 
-<p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Mining Locally-Anonymous Taboo Confessions using Psycholingual and Crowd-Sourced Dictionaries</font></a>. <i> Journal of Health Informatics (under review)</i></p>
+<p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Mining Anonymous Taboo Confessions using Psycho-lingual and Crowd-Sourced Dictionaries for Emotional Wellbeing</font></a>. <i> Journal of Health Informatics Research (under review)</i></p>
 
 <p><b>A. Paul</b>, D. Jha, W. Liao,  A. Choudhary and A. Agrawal.<a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">ChemsembleNet: A generalizable, transferable architecture for predicting chemical properties using multiple representations</font></a>. <i>Journal of Computational Chemistry (in preparation)</i></p>
 
