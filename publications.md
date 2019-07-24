@@ -7,7 +7,7 @@ title: Arindam Paul
 
 
 
-<p><b>A. Paul</b>, D. Jha, W. Liao,  A. Choudhary and A. Agrawal.<a href="https://arxiv.org/abs/1903.03178" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Transfer Learning Using Ensemble Neural Nets for Organic Solar Cell Screening</font></a>. <i>International Joint Conference on Neural Networks, 2019</i></p>
+<p><b>A. Paul</b>, D. Jha, W. Liao,  A. Choudhary and A. Agrawal.<a href="/assets/pdf/ijcnn_final.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Transfer Learning Using Ensemble Neural Nets for Organic Solar Cell Screening</font></a>. <i>International Joint Conference on Neural Networks, 2019</i><a href="https://arxiv.org/abs/1903.03178"> arxiv version</a></p>
 
 <p><b>A. Paul</b>, A. Furmanchuk, W. Liao, A. Choudhary and A. Agrawal.  <a href="/assets/pdf/opv_extra_trees.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Property Prediction of Organic Donor Molecules for Photovoltaic Applications using Extremely Randomized Trees</font></a>. <i>Journal of Molecular Informatics, 2019</i></p>
 
