@@ -5,7 +5,7 @@ title: Arindam Paul
 
 <div class="home" align="justify">
 
-<p><b>A. Paul</b>, M.Mozaffar, Z. Yang, W. Liao,  A. Choudhary, J. Cao and A. Agrawal.<a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A real-time iterative approach for temperature profile prediction in additive manufacturing processes</font></a>. <i>6th IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2019</i></p>
+<p><b>A. Paul</b>, M.Mozaffar, Z. Yang, W. Liao,  A. Choudhary, J. Cao and A. Agrawal.<a href="/assets/pdf/dsaa_additive.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A real-time iterative approach for temperature profile prediction in additive manufacturing processes</font></a>. <i>6th IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2019</i></p>
 
 <p><b>A. Paul</b>, D. Jha, W. Liao,  A. Choudhary and A. Agrawal.<a href="/assets/pdf/ijcnn_final.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Transfer Learning Using Ensemble Neural Nets for Organic Solar Cell Screening</font></a>. <i>International Joint Conference on Neural Networks, 2019</i><a href="https://arxiv.org/abs/1903.03178"> arxiv version</a></p>
 
