@@ -15,7 +15,7 @@ title: Arindam Paul
 
 <p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Mining Anonymous Taboo Confessions using Psycho-lingual and Crowd-Sourced Dictionaries for Emotional Wellbeing</font></a>. <i> Journal of Health Informatics Research (under review)</i></p>
 
-<p><b>A. Paul</b>, D. Jha, W. Liao,  A. Choudhary and A. Agrawal.<a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">ChemsembleNet: A generalizable, transferable architecture for predicting chemical properties using multiple representations</font></a>. <i>Journal of Computational Chemistry (in preparation)</i></p>
+<!-- <p><b>A. Paul</b>, D. Jha, W. Liao,  A. Choudhary and A. Agrawal.<a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">ChemsembleNet: A generalizable, transferable architecture for predicting chemical properties using multiple representations</font></a>. <i>Journal of Computational Chemistry (in preparation)</i></p> -->
 
 <!-- <p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Text Translation as Data Augmentation for Neural Network Modeling of Mental Health Confessions </font></a>. <i> Journal of Public Library of Science (PLOS One) (in preparation)</i></p> -->
 
