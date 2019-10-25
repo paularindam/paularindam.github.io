@@ -14,8 +14,8 @@ paginate: 6
 navigation:
  - title: Home
    url: /index.html
- - title: Projects
-   url: /portfolio
+ - title: Personal
+   url: /about.md
  - title: Publications
    url: /publications
  - title: CV
