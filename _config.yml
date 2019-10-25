@@ -15,10 +15,10 @@ navigation:
  - title: Home
    url: /index.html
  - title: Personal
-   url: /about.md
+   url: /about
  - title: Publications
    url: /publications
- - title: CV
+ - title: Vitae
    url: /vitae
  - title: Contact
    url: /contact

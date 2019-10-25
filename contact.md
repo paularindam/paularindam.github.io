@@ -6,19 +6,19 @@ title: Arindam Paul
 <div id="contact">
 
   <h1 class="pageTitle">Contact Me</h1>
-<p class="intro">To get in touch with me, please fill out the form or drop by my office or follow me on social media by clicking the icons below</p>
+<p class="intro">To get in touch with me, please fill out the form or follow me on social media by clicking the icons below</p>
   <div class="contactContent">
 
-    <p> <font color="purple"><b>
+    <!-- <p> <font color="purple"><b>
     Department of EECS<br>
       Northwestern University<br>
       <a href="http://www.mccormick.northwestern.edu/contact/tech-room-finder-map.php?id=LG65&room-floor=0&room-id=854&room-ingress="><font color="purple">LG65</font></a> <br>
     <a href ="https://maps.northwestern.edu/facility/132"><font color="purple">2145 Sheridan Road</font></a><br>
     Evanston, Illinois 60208</b>
-  </font></p>
+  </font></p>--->
     <img src="{{ '/assets/img/contact.jpg' | prepend: site.baseurl }}" alt="" height="280" weight ="280">
   </div>
-  <form action="MAILTO:arindam.paul@eecs.northwestern.edu" method="POST" enctype="text/plain">
+  <form action="MAILTO:arindampaul.bits@gmail.com" method="POST" enctype="text/plain">
 
 
     <label for="name">Name</label>    
