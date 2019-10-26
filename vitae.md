@@ -7,7 +7,6 @@ title: Arindam Paul
 
 <p><h4><font color="green">Professional Summary</font></h4></p>
 
-
  <b>Computer Scientist</b> working with 8+ years research experience. <br> <br> Interested in <font color="purple"><i>Machine Learning, Deep Learning, Natural Language Processing</i></font>
 
  <p><h4><font color="green">Computer Skills</font></h4></p>
