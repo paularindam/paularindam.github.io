@@ -36,7 +36,7 @@ title: Arindam Paul
 <li>Thesis: <i>Detecting Sybil Attacks in P2P networks using Psychometric Analysis</i></li>
 <li>Advisor: <a href="http://www.bits-pilani.ac.in/pilani/khari/profile">Prof. K. Haribabu</a></li></ul>
 
-<p><h4><font color="green">Professional Experience (last 5 years)</font></h4></p>
+<p><h4><font color="green">Professional Experience </font></h4></p>
 
 <p><h5><font color="purple"> Deep Learning Scientist at Northwestern Mutual Life Insurance: Oct 2019-</font></h5>
 <ul><li>Developing machine learning models for predicting motor vehicle risk </li>
