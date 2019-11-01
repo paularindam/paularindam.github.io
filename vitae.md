@@ -108,7 +108,7 @@ title: Arindam Paul
 
 <p><h4><font color="green">Leadership</font></h4></p>
 <ul><li>President(2014-16), Northwestern University Cricket Club </li>
-<li>President(2016-) and Treasurer(2015-16), Northwestern SpeakEasy Toastmasters Club</li>
+<li>President(2016-18) and Treasurer(2015-16), Northwestern SpeakEasy Toastmasters Club</li>
 <li>Facilitator(2016-17), Northwestern Multicultural Dialogue Group</li>
 <li>Student Coordinator(2016-17), Northwestern Predictive Science & Engineering Design)</li>
 <li>STEM Liaison(2014-2015), Northwestern Ethnic Students Group</li>
