@@ -38,7 +38,7 @@ title: Arindam Paul
 
 <p><h4><font color="green">Professional Experience </font></h4></p>
 
-<p><h5><font color="purple"> Deep Learning Scientist at Northwestern Mutual Life Insurance: Oct 2019-</font></h5>
+<p><h5><font color="purple"> Machine Learning Scientist at Northwestern Mutual Life Insurance: Oct 2019-</font></h5>
 <ul><li>Developing machine learning models for predicting motor vehicle risk </li>
 <li>Creating insurance-based language models for insurance specific language interpretation </li></ul></p>
 
@@ -47,7 +47,7 @@ title: Arindam Paul
 <ul><li>Developed distributed image to text conversion algorithms for detecting responses from scanned questionnaires</li>
 <li>Developed an image noise reduction algorithm to denoise scanned and photocopied questionnaires </li></ul></p>
 
-<p><h5><font color="purple"> Summer Research Intern at Boeing Cybersecurity (Narus Inc.): Jun-Sep 2013</font></h5>
+<p><h5><font color="purple"> Summer Research Intern at Boeing Cybersecurity: Jun-Sep 2013</font></h5>
 <ul><li>Generated synthetic user profiles with different demographic and interest features</li>
 <li>Developed a machine learning model for predicting user demographics and interests from ads </li></ul></p>
 
