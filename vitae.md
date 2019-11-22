@@ -38,7 +38,7 @@ title: Arindam Paul
 
 <p><h4><font color="green">Professional Experience </font></h4></p>
 
-<p><h5><font color="purple"> Machine Learning Scientist at Northwestern Mutual Life Insurance: Oct 2019-</font></h5>
+<p><h5><font color="purple"> Machine Learning Scientist at American Family Insurance: Oct 2019-</font></h5>
 <ul><li>Developing machine learning models for predicting motor vehicle risk </li>
 <li>Creating insurance-based language models for insurance specific language interpretation </li></ul></p>
 
