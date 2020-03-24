@@ -19,7 +19,7 @@ title: Arindam Paul
 
 <p><h5><font color="purple">Northwestern University, Evanston, Illinois</font></h5>
 <ul><li>Ph.D. in Computer Science, 2019</li>
-<li>Dissertation: <i><a href="/assets/pdf/thesis.pdf">Machine Learning and Data-driven Optimization for Applications in Scientific Discovery</i></li>
+<li>Dissertation: <i><a href="/assets/pdf/thesis.pdf">Machine Learning and Data-driven Optimization for Applications in Scientific Discovery</a></i></li>
 <li>Advisors: <a href="http://users.eecs.northwestern.edu/~choudhar/">Prof. Alok Choudhary</a>, <a href="http://users.eecs.northwestern.edu/~ankitag/">Prof. Ankit Agrawal</a></li></ul></p>
 
 <p><h5><font color="purple">Northwestern University, Evanston, Illinois</font></h5>
