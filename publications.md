@@ -5,7 +5,11 @@ title: Arindam Paul
 
 <div class="home" align="justify">
 
-<p>Z.Yang, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative adversarial networks with mixture density networks for inverse modeling in materials microstructural design</font></a>. <i> 20th SIAM International Conference on Data Mining (SDM) (under review) </i></p>
+<p>Z.Yang, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative adversarial networks with mixture density networks for inverse modeling in materials microstructural design</font></a>. <i>NIPS Workshop on Machine Learning for Engineering Modeling, Simulation and Design, 2020 </i></p>
+
+<p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications (under review) </i></p>
+
+<p>R.Richards, and <b> A. Paul</b>. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An Attention-driven LSTM Network for High Throughput Virtual Screening of Organic Photovoltaic Candidate Molecules</font></a>. <i>Solar Energy (under review) </i></p>
 
 <p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Mining Anonymous Taboo Confessions using Psycho-lingual and Crowd-Sourced Dictionaries for Emotional Wellbeing</font></a>. <i> Journal of Health Informatics Research (under review)</i></p>
 
