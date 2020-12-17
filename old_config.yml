@@ -1,0 +1,40 @@
+title: Arindam Paul
+description: My website
+
+url:
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+port: 4000
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 6
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: Personal
+   url: /about
+ - title: Publications
+   url: /publications
+ - title: Vitae
+   url: /vitae
+ - title: Contact
+   url: /contact
+
+
+
+social:
+   github: paularindam
+   twitter: arndmPaul
+   linkedin: arndmpaul
+   facebook: arindampaul.bits
+   quora: Arindam-Paul-3
+   researchgate: Arindam_Paul5
+   academia: ArindamPaul
+   scholar: iGPYZD0AAAAJ
+   bitbucket: paulappl
+   email: arindam.paul@eecs.northwestern.edu
+
+google_analytics:
