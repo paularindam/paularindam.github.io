@@ -66,11 +66,11 @@ title: Arindam Paul
 
 <h5><u>Works in Progress:</u></h5>
 
-<p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications (under review) </i></p>
+- <p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications (under review) </i></p>
 
-<p>R.Richards, and <b> A. Paul</b>. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An Attention-driven LSTM Network for High Throughput Virtual Screening of Organic Photovoltaic Candidate Molecules</font></a>. <i>Solar Energy (under review) </i></p>
+- <p>R.Richards, and <b> A. Paul</b>. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An Attention-driven LSTM Network for High Throughput Virtual Screening of Organic Photovoltaic Candidate Molecules</font></a>. <i>Solar Energy (under review) </i></p>
 
-<p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Mining Anonymous Taboo Confessions using Psycho-lingual and Crowd-Sourced Dictionaries for Emotional Wellbeing</font></a>. <i> Journal of Health Informatics Research (under review)</i></p>
+- <p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Mining Anonymous Taboo Confessions using Psycho-lingual and Crowd-Sourced Dictionaries for Emotional Wellbeing</font></a>. <i> Journal of Health Informatics Research (under review)</i></p>
 
 <h5><u>Journals:</u></h5>
 
