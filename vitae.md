@@ -64,7 +64,7 @@ title: Arindam Paul
 
 <p><h4><font color="green">Publications</font></h4></p>
 
-<h5>Works in Progress:</h5>
+<h5><u>Works in Progress:</u></h5>
 
 <p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications (under review) </i></p>
 
@@ -72,7 +72,7 @@ title: Arindam Paul
 
 <p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Mining Anonymous Taboo Confessions using Psycho-lingual and Crowd-Sourced Dictionaries for Emotional Wellbeing</font></a>. <i> Journal of Health Informatics Research (under review)</i></p>
 
-<h5>Journals:</h5>
+<h5><u>Journals:</u></h5>
 
 <p><b>A. Paul</b>, A. Furmanchuk, W. Liao, A. Choudhary and A. Agrawal.  <a href="/assets/pdf/opv_extra_trees.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Property Prediction of Organic Donor Molecules for Photovoltaic Applications using Extremely Randomized Trees</font></a>. <i>Journal of Molecular Informatics, 2019</i></p>
 
@@ -88,7 +88,7 @@ title: Arindam Paul
 
 <p><b>A. Paul</b>, J.S. Challa, Y.Dada, V.Nerella, P.R. Srivastava and A.P.Singh. <a href="/assets/pdf/ISQE.pdf" target="_blank" style="text-decoration:none" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'"><font color="purple">Integrated Software Quality Evaluation: A Fuzzy Multi-Criteria Approach</font></a>, <i> Journal of Information Processing Systems (JIPS) 2011 Volume 7 </i></p>
 
-<h5>Conferences:</h5>
+<h5><u>Conferences:</u></h5>
 
 <p><b>A. Paul</b>, M.Mozaffar, Z. Yang, W. Liao,  A. Choudhary, J. Cao and A. Agrawal.<a href="/assets/pdf/dsaa_additive.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A real-time iterative approach for temperature profile prediction in additive manufacturing processes</font></a>. <i>6th IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2019</i><a href="https://arxiv.org/abs/1907.12953"> arxiv version</a></p>
 
