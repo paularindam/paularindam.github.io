@@ -90,7 +90,7 @@ title: Arindam Paul
 
 <h5><u>Conferences:</u></h5>
 
-<p>Z. Yang, D. Jha, <b>A. Paul</b>,  W. Liao,  A. Choudhary and A. Agrawal.<a href="https://ml4eng.github.io/camera_readys/31.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">CheMixNet: Mixed DNN Architectures for Predicting Chemical Properties using Multiple Molecular Representations</font></a>. <i> Workshop on Machine Learning for Engineering Modeling, Simulation and Design at 2020 Conference on Neural Information Processing Systems (NeurIPS) </i></p>
+<p>Z. Yang, D. Jha, <b>A. Paul</b>,  W. Liao,  A. Choudhary and A. Agrawal.<a href="https://ml4eng.github.io/camera_readys/31.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative adversarial networks with mixture density networks for inverse modeling in materials microstructural designs</font></a>. <i> Workshop on Machine Learning for Engineering Modeling, Simulation and Design at 2020 Conference on Neural Information Processing Systems (NeurIPS) </i></p>
 
 <p><b>A. Paul</b>, M.Mozaffar, Z. Yang, W. Liao,  A. Choudhary, J. Cao and A. Agrawal.<a href="/assets/pdf/dsaa_additive.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A real-time iterative approach for temperature profile prediction in additive manufacturing processes</font></a>. <i>6th IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2019</i><a href="https://arxiv.org/abs/1907.12953"> arxiv version</a></p>
 
