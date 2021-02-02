@@ -1,5 +1,6 @@
 
-Webpage of Arindam Paul, PhD Candidate at Northwestern University
+Webpage of Arindam Paul, PhD 
+Machine Learning Scientist at American Family Insurance
 <!-- ## Features
 
 - Minimal, Type Focused Design
