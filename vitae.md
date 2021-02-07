@@ -73,7 +73,7 @@ title: Arindam Paul
 
 <h5><u>Journals:</u></h5>
 
-<p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Harnessing Psycho-lingual and Crowd-Sourced Dictionaries for Predicting Taboos in Written Emotional Disclosure in Anonymous Confession Boards</font></a>. <i>Journal of Health Informatics Research </i></p>
+<p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Harnessing Psycho-lingual and Crowd-Sourced Dictionaries for Predicting Taboos in Written Emotional Disclosure in Anonymous Confession Boards</font></a>. <i>Journal of Health Informatics Research, 2021</i></p>
 
 <p><b>A. Paul</b>, A. Furmanchuk, W. Liao, A. Choudhary and A. Agrawal.  <a href="/assets/pdf/opv_extra_trees.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Property Prediction of Organic Donor Molecules for Photovoltaic Applications using Extremely Randomized Trees</font></a>. <i>Journal of Molecular Informatics, 2019</i></p>
 
