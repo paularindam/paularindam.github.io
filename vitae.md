@@ -160,24 +160,24 @@ network<font color="purple"> (Go) </font></li>
 </ul>
 
 
-<p><h4><font color="green">Mentorship</font></h4></p>
+<!-- <p><h4><font color="green">Mentorship</font></h4></p>
 <ul><li>Debanjan Borthakur, Graduate Student, University of Rhode Island</li>
 <li>Sean Chan, Undergraduate Student, Northwestern</li>
 <li> Tirtha Sarathi Ghosh, Undergraduate Student, Jadavpur University, India</li>
 <li>Indervir Singh, Undergraduate Student, BITS Pilani</li>
-</ul>
+</ul>  -->
 
-<p><h4><font color="green">Service</font></h4></p>
+<!-- <p><h4><font color="green">Service</font></h4></p>
 <ul><li>Student volunteer at ACM CSCW 2014 Program Committee </li>
 <li>Peer Reviewer for ICDM 2016 Conference and Workshops</li>
 <li>Peer Reviewer for InfoComm 2013</li>
 <li>Peer Reviewer for <a href="https://www.aiaa.org/journals/">AIAA 2016</a></li>
-</ul>
+</ul> -->
 
 <p><h4><font color="green">References (on request)</font></h4></p>
 <ul><li>Dr. Alok Choudhary - Professor of EECS (Northwestern University)</li>
 <li>Dr. Ankit Agrawal - Research Associate Professor of EECS (Northwestern University)</li>
-<!-- <li>Dr. Doug Downey - Associate Professor of EECS (Northwestern University)</li> -->
-<li>Dr. Oliver Cossairt - Assistant Professor of EECS (Northwestern University)</li>
+<!-- <li>Dr. Doug Downey - Associate Professor of EECS (Northwestern University)</li>
+<li>Dr. Oliver Cossairt - Assistant Professor of EECS (Northwestern University)</li> -->
 <li>Dr. K. Haribabu - Assistant Professor of CSIS (BITS Pilani)</li>
 </ul>
