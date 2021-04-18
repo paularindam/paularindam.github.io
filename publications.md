@@ -5,6 +5,8 @@ title: Arindam Paul
 
 <div class="home" align="justify">
  
+<p>R.Richards, and <b> A. Paul</b>. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An Attention-driven LSTM Network for High Throughput Virtual Screening of Organic Photovoltaic Candidate Molecules</font></a>. <i>Solar Energy, 2021 </i></p>
+ 
 <p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Harnessing Psycho-lingual and Crowd-Sourced Dictionaries for Predicting Taboos in Written Emotional Disclosure in Anonymous Confession Boards</font></a>. <i> Journal of Health Informatics Research, 2021</i></p>
 
 <p>Z.Yang, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="http://cucis.ece.northwestern.edu/publications/pdf/YJP20.pdf" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative adversarial networks with mixture density networks for inverse modeling in materials microstructural design</font></a>. <i>NIPS Workshop on Machine Learning for Engineering Modeling, Simulation and Design, 2020 </i></p>
