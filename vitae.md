@@ -73,7 +73,7 @@ title: Arindam Paul
 
 <h5><u>Journals:</u></h5>
 
-<p>R.Richards, and <b> A. Paul</b>. <a href="https://authors.elsevier.com/c/1dBkB,tRdGymv" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An Attention-driven LSTM Network for High Throughput Virtual Screening of Organic Photovoltaic Candidate Molecules</font></a>. <i>Solar Energy, 2021</i></p>
+<p>R.Richards, and <b> A. Paul</b>. <a href="/assets/pdf/attention_solarenergy.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An Attention-driven LSTM Network for High Throughput Virtual Screening of Organic Photovoltaic Candidate Molecules</font></a>. <i>Solar Energy, 2021</i></p>
 
 <p><b>A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="https://link.springer.com/epdf/10.1007/s41666-021-00092-w?sharing_token=7XxGBeCj_ks39pGs05iZKve4RwlQNchNByi7wbcMAY44qyFRoqvTAaVi8I_I5ra84rIJOk465mbOJtGWlZ27RJ2eXrwNNL8LAvl9MMOHYY9_gvEslOabWvKTOW3wIYKGPma7xoM7jUSext1Yi14Ezxl34HzfGoizGH3dieX9Fsw%3D" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Harnessing Psycho-lingual and Crowd-Sourced Dictionaries for Predicting Taboos in Written Emotional Disclosure in Anonymous Confession Boards</font></a>. <i>Journal of Health Informatics Research, 2021</i><a href="/assets/pdf/taboo_hir.pdf">Download</a></p>
 
