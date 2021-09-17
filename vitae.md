@@ -64,11 +64,11 @@ title: Arindam Paul
 
 <p><h4><font color="green">Publications</font></h4></p>
 
-<h5><u>Works in Progress:</u></h5>
+<h5><u>Works currently under Review:</u></h5>
 
- <p>K. Ness, <b> A. Paul</b>, L. Sun and  Z. Zhang. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Physics-based feature engineering for machine learning predictions of thermal fields in Additive Manufacturing</font></a>. <i>Journal of Materials Processing Technology - Special Issue on AI in Advanced Manufacturing (under review) </i></p>
+ <p>K. Ness, <b> A. Paul</b>, L. Sun and  Z. Zhang. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Physics-based feature engineering for machine learning predictions of thermal fields in Additive Manufacturing</font></a>. <i>Journal of Materials Processing Technology - Special Issue on AI in Advanced Manufacturing</i></p>
 
-<p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications (under review) </i></p>
+<p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications</i></p>
 
 
 <h5><u>Journals:</u></h5>
