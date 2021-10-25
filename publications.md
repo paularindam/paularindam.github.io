@@ -5,7 +5,9 @@ title: Arindam Paul
 
 <div class="home" align="justify">
  
- <p>K. Ness, <b> A. Paul</b>, L. Sun and  Z. Zhang. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Physics-based feature engineering for machine learning predictions of thermal fields in Additive Manufacturing</font></a>. <i>Journal of Materials Processing Technology - Special Issue on AI in Advanced Manufacturing (under review) </i></p>
+ <p>K. Ness, <b> A. Paul</b>, L. Sun and  Z. Zhang. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Physics-based feature engineering for machine learning predictions of thermal fields in Additive Manufacturing</font></a>. <i>Journal of Materials Processing Technology - Special Issue on AI in Advanced Manufacturing (in review) </i></p>
+ 
+<p>Z.Yang, Y. Mao, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative Adversarial Networks and Mixture Density Networks based Inverse Modeling for Microstructural Materials Design</font></a>. <i>Science Advances (in review) </i></p>
  
 <p>R. Richards, and <b> A. Paul</b>. <a href="/assets/pdf/attention_solarenergy.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An Attention-driven LSTM Network for High Throughput Virtual Screening of Organic Photovoltaic Candidate Molecules</font></a>. <i>Solar Energy, 2021 </i></p>
  
@@ -13,7 +15,7 @@ title: Arindam Paul
 
 <p>Z.Yang, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="http://cucis.ece.northwestern.edu/publications/pdf/YJP20.pdf" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative adversarial networks with mixture density networks for inverse modeling in materials microstructural design</font></a>. <i>Workshop on Machine Learning for Engineering Modeling, Simulation and Design at the 2020 Conference on Neural Information Processing Systems (NeurIPS)</i></p>
 
-<p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications (under review) </i></p>
+<p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications (in review) </i></p>
 
 <p><b>A. Paul</b>, M.Mozaffar, Z. Yang, W. Liao,  A. Choudhary, J. Cao and A. Agrawal.<a href="http://cucis.ece.northwestern.edu/publications/pdf/PMY19.pdf" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A real-time iterative approach for temperature profile prediction in additive manufacturing processes</font></a>. <i>6th IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2019</i></p>
 
