@@ -8,7 +8,7 @@ title: Arindam Paul
 
 <p><h4><font color="green">Professional Summary</font></h4></p>
 
- <b>Computer Scientist</b> with 10 years of research experience. <br> <br> Interested in <font color="purple"><i>Machine Learning, Deep Learning, Natural Language Processing</i></font>
+ <b>Computer Scientist</b> with 10+ years of research experience. <br> <br> Interested in <font color="purple"><i>Machine Learning, Deep Learning, Natural Language Processing</i></font>
 
  <p><h4><font color="green">Computer Skills</font></h4></p>
  <ul><li>Proficient: Python, Keras, Scikit-Learn, Tensorflow, Selenium, XGBoost</li>
@@ -66,12 +66,14 @@ title: Arindam Paul
 
 <h5><u>Works currently under Review:</u></h5>
 
- <p>K. Ness, <b> A. Paul</b>, L. Sun and  Z. Zhang. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Physics-based feature engineering for machine learning predictions of thermal fields in Additive Manufacturing</font></a>. <i>Journal of Materials Processing Technology - Special Issue on AI in Advanced Manufacturing</i></p>
+<p>Z.Yang, Y. Mao, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative Adversarial Networks and Mixture Density Networks based Inverse Modeling for Microstructural Materials Design</font></a>. <i>Science Advances</i></p>
 
 <p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications</i></p>
 
 
 <h5><u>Journals:</u></h5>
+
+ <p>K. Ness, <b> A. Paul</b>, L. Sun and  Z. Zhang. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Physics-based feature engineering for machine learning predictions of thermal fields in Additive Manufacturing</font></a>. <i>Journal of Materials Processing Technology - Special Issue on AI in Advanced Manufacturing (accepted for publication) </i></p>
 
 <p>R.Richards, and <b> A. Paul</b>. <a href="/assets/pdf/attention_solarenergy.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An Attention-driven LSTM Network for High Throughput Virtual Screening of Organic Photovoltaic Candidate Molecules</font></a>. <i>Solar Energy, 2021</i></p>
 
