@@ -5,7 +5,7 @@ title: Arindam Paul
 
 <div class="home" align="justify">
  
- <p>K. Ness, <b> A. Paul</b>, L. Sun and  Z. Zhang. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Towards a generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing</font></a>. <i>Journal of Materials Processing Technology - Special Issue on AI in Advanced Manufacturing (accepted) </i></p>
+ <p>K. Ness, <b> A. Paul</b>, L. Sun and  Z. Zhang. <a href="https://www.sciencedirect.com/science/article/pii/S0924013621004325?via%3Dihub" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Towards a generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing</font></a>. <i>Journal of Materials Processing Technology, 2022 (Special Issue on AI in Advanced Manufacturing)</i></p>
  
 <p>Z.Yang, Y. Mao, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative Adversarial Networks and Mixture Density Networks based Inverse Modeling for Microstructural Materials Design</font></a>. <i>Science Advances (in review) </i></p>
  
