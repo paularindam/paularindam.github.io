@@ -73,7 +73,7 @@ title: Arindam Paul
 
 <h5><u>Journals:</u></h5>
 
- <p>K. Ness, <b> A. Paul</b>, L. Sun and  Z. Zhang. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Towards a generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing</font></a>. <i>Journal of Materials Processing Technology, 2022 (Special Issue on Artificial Intelligence in Advanced Manufacturing Processes -AiAMP)</i></p>
+ <p>K. Ness, <b> A. Paul</b>, L. Sun and  Z. Zhang. <a href="https://www.sciencedirect.com/science/article/pii/S0924013621004325?via%3Dihub" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Towards a generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing</font></a>. <i>Journal of Materials Processing Technology, 2022 (Special Issue on Artificial Intelligence in Advanced Manufacturing Processes -AiAMP)</i></p>
 
 <p>R.Richards, and <b> A. Paul</b>. <a href="/assets/pdf/attention_solarenergy.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An Attention-driven LSTM Network for High Throughput Virtual Screening of Organic Photovoltaic Candidate Molecules</font></a>. <i>Solar Energy, 2021</i></p>
 
