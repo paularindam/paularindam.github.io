@@ -4,7 +4,7 @@ title: Arindam Paul
 ---
 
 <div class="home" align="justify">
- 
+ <p>2020-</p>
  <p>K. Ness, <b> A. Paul</b>, L. Sun and  Z. Zhang. <a href="https://www.sciencedirect.com/science/article/pii/S0924013621004325?via%3Dihub" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Towards a generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing</font></a>. <i>Journal of Materials Processing Technology, 2022 (Special Issue on AI in Advanced Manufacturing)</i></p>
  
 <p>Z.Yang, Y. Mao, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative Adversarial Networks and Mixture Density Networks based Inverse Modeling for Microstructural Materials Design</font></a>. <i>Science Advances (in review) </i></p>
@@ -15,6 +15,7 @@ title: Arindam Paul
 
 <p>Z.Yang, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="http://cucis.ece.northwestern.edu/publications/pdf/YJP20.pdf" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative adversarial networks with mixture density networks for inverse modeling in materials microstructural design</font></a>. <i>Workshop on Machine Learning for Engineering Modeling, Simulation and Design at the 2020 Conference on Neural Information Processing Systems (NeurIPS)</i></p>
 
+ <p>2015-2019</p>
 <p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="#" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications (in review) </i></p>
 
 <p><b>A. Paul</b>, M.Mozaffar, Z. Yang, W. Liao,  A. Choudhary, J. Cao and A. Agrawal.<a href="http://cucis.ece.northwestern.edu/publications/pdf/PMY19.pdf" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A real-time iterative approach for temperature profile prediction in additive manufacturing processes</font></a>. <i>6th IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2019</i></p>
@@ -41,6 +42,7 @@ title: Arindam Paul
 
 <p>J.Birnholtz, N.A.R. Merola, and <b>A. Paul</b>. <a href="https://socialmedia.soc.northwestern.edu/wp-content/uploads/2012/09/pn1506-birnholtz.pdf" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">"Is it Weird to Still Be a Virgin?": Anonymous, Locally Targeted Questions on Facebook Confession Boards</font></a>. <i>ACM Conference on Human Factors in Computing Systems, 2015</i></p>
 
+ <p>-2015</p>
 <p><b>A. Paul</b>, Varuni G., J.S. Challa and Y. Sharma. <a href="/assets/pdf/HADCLEAN.pdf" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" ><font color="purple">HADCLEAN: A Hybrid Approach for Data Cleaning Techniques in Data Warehouses</font></a>,<i> IEEE International Conference on Information Retrieval and Knowledge Management(CAMP), 2012</i></p>
 
 <p> K Haribabu, C.Hota and <b>A. Paul</b>. <a href="/assets/pdf/GAUR.pdf"  target="_blank" style="text-decoration:none" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'"><font color="purple">GAUR: A Method to Detect Sybil Groups in Peer-to-Peer Overlays</font></a>, <i>International Journal of Grid and Utility Computing 2012, Vol.3</i></p>
