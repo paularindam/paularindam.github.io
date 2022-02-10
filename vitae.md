@@ -11,8 +11,8 @@ title: Arindam Paul
  <b>Computer Scientist</b> with 10+ years of research experience. <br> <br> Interested in <font color="purple"><i>Machine Learning, Deep Learning, Natural Language Processing</i></font>
 
  <p><h4><font color="green">Computer Skills</font></h4></p>
- <ul><li>Proficient: Python, Keras, Scikit-Learn, Tensorflow, Selenium, XGBoost</li>
- <li>Familiar: R, MATLAB, weka, PySpark, C, C++, Java, PHP, LAMP, SQL, html/css/javascript, MPI</li></ul>
+ <ul><li>Proficient: Python, Keras/Tensorflow, Scikit-Learn, dash/plotly, statsmodels, scipy, Selenium, XGBoost/LightGBM</li>
+ <li>Familiar: FastAI/PyTorch, R, MATLAB, weka, SQL, html/css/javascript, MPI, PySpark, C, C++, Java</li></ul>
 
 
 <p><h4><font color="green">Education</font></h4></p>
