@@ -66,7 +66,7 @@ title: Arindam Paul
 
 <h5><u>Works currently under Review:</u></h5>
 
-<p>Z.Yang, Y. Mao, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative Adversarial Networks and Mixture Density Networks based Inverse Modeling for Microstructural Materials Design</font></a>. <i>Science Advances</i></p>
+<p>Z.Yang, Y. Mao, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative Adversarial Networks and Mixture Density Networks based Inverse Modeling for Microstructural Materials Design</font></a>. <i>Integrating Materials and Manufacturing Innovation Journal</i></p>
 
 
 <h5><u>Journals:</u></h5>
