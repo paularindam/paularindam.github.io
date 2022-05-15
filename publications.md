@@ -6,7 +6,7 @@ title: Arindam Paul
 <div class="home" align="justify">
  <p><u>2020-</u></p>
  
- <p>Z.Yang, Y. Mao, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative Adversarial Networks and Mixture Density Networks based Inverse Modeling for Microstructural Materials Design</font></a>. <i>Science Advances (in review) </i></p>
+ <p>Z.Yang, Y. Mao, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative Adversarial Networks and Mixture Density Networks based Inverse Modeling for Microstructural Materials Design</font></a>. <i>Integrating Materials and Manufacturing Innovation (in review) </i></p>
  
  <p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="https://urldefense.com/v3/__https://authors.elsevier.com/c/1e*i43PiGTLoKn__;fg!!NH_hVA4!vOixO5V6cKn6v0Blm43UHKU3bfzaQrTjep3mvjHli1KxoM0JI1r5TwmDuItX$" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications, 2022 </i></p>
  
