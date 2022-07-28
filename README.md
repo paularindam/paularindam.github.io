@@ -1,6 +1,6 @@
 
 Webpage of Arindam Paul, PhD 
-Machine Learning Scientist at American Family Insurance
+Data & Applied Scientist at American Family Insurance
 <!-- ## Features
 
 - Minimal, Type Focused Design
