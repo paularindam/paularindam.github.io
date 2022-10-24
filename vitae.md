@@ -72,7 +72,7 @@ title: Arindam Paul
 
 <h5><u>Journals:</u></h5>
 
-<p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="https://urldefense.com/v3/__https://authors.elsevier.com/c/1e*i43PiGTLoKn__;fg!!NH_hVA4!vOixO5V6cKn6v0Blm43UHKU3bfzaQrTjep3mvjHli1KxoM0JI1r5TwmDuItX$" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications, 2022</i></p>
+<p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="/assets/pdf/eswa_amfam_insurance.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications, 2022</i></p>
 <!-- "https://www.sciencedirect.com/science/article/abs/pii/S0957417422005553" -->
 
  <p>K. Ness, <b> A. Paul</b>, L. Sun and  Z. Zhang. <a href="https://www.sciencedirect.com/science/article/pii/S0924013621004325?via%3Dihub" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Towards a generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing</font></a>. <i>Journal of Materials Processing Technology, 2022 (Special Issue on Artificial Intelligence in Advanced Manufacturing Processes -AiAMP)</i></p>
