@@ -66,14 +66,14 @@ title: Arindam Paul
 
 <h5><u>Works currently under Review:</u></h5>
  <p>Y. Mao, M. Hasan, <b> A. Paul</b>, V. Gupta, K. Choudhary, F. M. Tavazza, W. Liao, A. Choudhary, P. Acar and A. Agrawal. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An End-to-End AI-Driven Microstructure Optimization Framework for Elastic Properties of Titanium Beyond Cubic Crystal Systems</font></a>. <i>Nature Machine Intelligence (in review) </i></p>
- 
- <p>Y. Mao, Z. Yang, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative Adversarial Networks and Mixture Density Networks based Inverse Modeling for Microstructural Materials Design</font></a>. <i>Integrating Materials and Manufacturing Innovation Journal (in review) </i></p>
 
 
 <h5><u>Journals:</u></h5>
 
 <p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="/assets/pdf/eswa_amfam_insurance.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications, 2022</i></p>
 <!-- "https://www.sciencedirect.com/science/article/abs/pii/S0957417422005553" -->
+
+ <p>Y. Mao, Z. Yang, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="/assets/pdf/immj_inverse_model.pdf" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative Adversarial Networks and Mixture Density Networks based Inverse Modeling for Microstructural Materials Design</font></a>. <i>Integrating Materials and Manufacturing Innovation Journal, 2022 </i></p>
 
  <p>K. Ness, <b> A. Paul</b>, L. Sun and  Z. Zhang. <a href="https://www.sciencedirect.com/science/article/pii/S0924013621004325?via%3Dihub" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Towards a generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing</font></a>. <i>Journal of Materials Processing Technology, 2022 (Special Issue on Artificial Intelligence in Advanced Manufacturing Processes -AiAMP)</i></p>
 
