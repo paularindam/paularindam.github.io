@@ -6,6 +6,9 @@ title: Arindam Paul
 <div class="home" align="justify">
  <p><u>2020-</u></p>
  
+  <p>D. Borthakur, <b> A. Paul</b>, D. Kapil, M.J. Saikia. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Yoga Pose Classification Integrating Computer Vision and Discriminative Modelling</font></a>. <i>IEEE Access (under review) </i></p>
+
+ 
  <p>Y. Mao, M. Hasan, <b> A. Paul</b>, V. Gupta, K. Choudhary, F. M. Tavazza, W. Liao, A. Choudhary, P. Acar and A. Agrawal. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An End-to-End AI-Driven Microstructure Optimization Framework for Elastic Properties of Titanium Beyond Cubic Crystal Systems</font></a>. <i>Nature Machine Intelligence (in review) </i></p>
  
  <p>Y. Mao, Z. Yang, D. Jha, <b> A. Paul</b>, W. Liao, A. Choudhary and A. Agrawal. <a href="/assets/pdf/immj_inverse_model.pdf" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">Generative Adversarial Networks and Mixture Density Networks based Inverse Modeling for Microstructural Materials Design</font></a>. <i>Integrating Materials and Manufacturing Innovation Journal, 2022</i></p>
