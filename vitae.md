@@ -68,10 +68,9 @@ title: Arindam Paul
 
 <p>D. Borthakur, <b> A. Paul</b>, D. Kapil, M.J. Saikia. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Yoga Pose Classification Integrating Computer Vision and Discriminative Modelling</font></a>. <i>IEEE Access (under review) </i></p>
 
- <p>Y. Mao, M. Hasan, <b> A. Paul</b>, V. Gupta, K. Choudhary, F. M. Tavazza, W. Liao, A. Choudhary, P. Acar and A. Agrawal. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An End-to-End AI-Driven Microstructure Optimization Framework for Elastic Properties of Titanium Beyond Cubic Crystal Systems</font></a>. <i>npj Computational Materials (in review) </i></p>
-
-
 <h5><u>Journals:</u></h5>
+
+<p>Y. Mao, M. Hasan, <b> A. Paul</b>, V. Gupta, K. Choudhary, F. M. Tavazza, W. Liao, A. Choudhary, P. Acar and A. Agrawal. <a href="#" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An End-to-End AI-Driven Microstructure Optimization Framework for Elastic Properties of Titanium Beyond Cubic Crystal Systems</font></a>. <i>npj Computational Materials, 2023 </i></p>
 
 <p>A.Dimri, <b> A.Paul</b>, D.Girish, P.Lee, S.Afra and  A. Jakubowski. <a href="/assets/pdf/eswa_amfam_insurance.pdf" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">A Multi-input Multi-label Claims Channeling System Using Insurance-Based Language Models Expert Systems With Applications</font></a>. <i>Expert Systems With Applications, 2022</i></p>
 <!-- "https://www.sciencedirect.com/science/article/abs/pii/S0957417422005553" -->
