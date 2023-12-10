@@ -67,7 +67,7 @@ title: Arindam Paul
 
 <h5><u>Journals:</u></h5>
 
- <p>D. Borthakur, <b> A. Paul</b>, D. Kapil, M.J. Saikia. <a href="https://www.mdpi.com/2227-9032/11/24/3133" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Yoga Pose Estimation Using Angle-Based Feature Extraction</font></a>. <i>Health </i></p>
+ <p>D. Borthakur, <b> A. Paul</b>, D. Kapil, M.J. Saikia. <a href="https://www.mdpi.com/2227-9032/11/24/3133" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Yoga Pose Estimation Using Angle-Based Feature Extraction</font></a>. <i>Health, 2023 </i></p>
  
 <p>Y. Mao, M. Hasan, <b> A. Paul</b>, V. Gupta, K. Choudhary, F. M. Tavazza, W. Liao, A. Choudhary, P. Acar and A. Agrawal. <a href="#" target="https://doi.org/10.1038/s41524-023-01067-8" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple">An End-to-End AI-Driven Microstructure Optimization Framework for Elastic Properties of Titanium Beyond Cubic Crystal Systems</font></a>. <i>npj Computational Materials, 2023 </i></p>
 
