@@ -67,7 +67,7 @@ title: Arindam Paul
 
 <h5><u>Journals:</u></h5>
 
-<p>Fa Li, Qing Zhu, Kunxiaojia Yuan, Fujiang Ji, <b>Arindam Paul</b>, Peng Lee, Volker C. Radeloff, Min Chen. <a href="https://essopenarchive.org/users/784670/articles/948622-projecting-large-fires-in-the-western-us-with-a-more-trustworthy-machine-learning-method" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Projecting large fires in the western US with a more trustworthy machine learning method</font></a>. <i>Earth's Future, 2024 </i></p>
+<p>Fa Li, Qing Zhu, Kunxiaojia Yuan, Fujiang Ji, <b>Arindam Paul</b>, Peng Lee, Volker C. Radeloff, Min Chen. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF004588" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Projecting large fires in the western US with a more trustworthy machine learning method</font></a>. <i>Earth's Future, 2024 </i></p>
 
  <p>D. Borthakur, <b> A. Paul</b>, D. Kapil, M.J. Saikia. <a href="https://www.mdpi.com/2227-9032/11/24/3133" target="_blank" style="text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'" > <font color="purple"> Yoga Pose Estimation Using Angle-Based Feature Extraction</font></a>. <i>Health, 2023 </i></p>
  
